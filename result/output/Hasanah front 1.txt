@@ -1,0 +1,440 @@
+Hasanah
+4
+
+start time : 2020-10-13 20:14:25.601952
+start time : 2020-10-13 20:15:39.155364
+end :2020-10-13 20:15:39.155364
+start time : 2020-10-13 20:15:39.208399
+Result: Hasanah - TRUE
+99.45
+end :2020-10-13 20:15:39.248429
+start time : 2020-10-13 20:15:39.307469
+Result: Hasanah - TRUE
+92.67
+end :2020-10-13 20:15:39.342515
+start time : 2020-10-13 20:15:39.400359
+Result: Hasanah - TRUE
+93.67
+end :2020-10-13 20:15:39.434384
+start time : 2020-10-13 20:15:39.497428
+Result: Hasanah - TRUE
+90.94
+end :2020-10-13 20:15:39.530453
+start time : 2020-10-13 20:15:39.590494
+Result: Hasanah - TRUE
+98.05
+end :2020-10-13 20:15:39.621537
+start time : 2020-10-13 20:15:39.680578
+Result: Hasanah - TRUE
+88.7
+end :2020-10-13 20:15:39.712602
+start time : 2020-10-13 20:15:39.771643
+Result: Hasanah - TRUE
+97.17
+end :2020-10-13 20:15:39.804668
+start time : 2020-10-13 20:15:39.863709
+Result: Hasanah - TRUE
+99.55
+end :2020-10-13 20:15:39.895733
+start time : 2020-10-13 20:15:39.954773
+Result: Hasanah - TRUE
+96.75
+end :2020-10-13 20:15:39.987799
+start time : 2020-10-13 20:15:40.046839
+Result: Hasanah - TRUE
+89.45
+end :2020-10-13 20:15:40.079864
+start time : 2020-10-13 20:15:40.138904
+Result: Hasanah - TRUE
+85.24
+end :2020-10-13 20:15:40.171929
+start time : 2020-10-13 20:15:40.230969
+Result: Hasanah - TRUE
+92.28
+end :2020-10-13 20:15:40.262994
+start time : 2020-10-13 20:15:40.320033
+Result: Hasanah - TRUE
+84.25
+end :2020-10-13 20:15:40.352057
+start time : 2020-10-13 20:15:40.410097
+Result: Bulan - false
+91.33
+end :2020-10-13 20:15:40.442122
+start time : 2020-10-13 20:15:40.495158
+Result: Hasanah - TRUE
+91.57
+end :2020-10-13 20:15:40.528183
+start time : 2020-10-13 20:15:40.586223
+Result: Hasanah - TRUE
+93.81
+end :2020-10-13 20:15:40.618247
+start time : 2020-10-13 20:15:40.676287
+Result: Hasanah - TRUE
+98.55
+end :2020-10-13 20:15:40.708312
+start time : 2020-10-13 20:15:40.765350
+end :2020-10-13 20:15:40.766350
+start time : 2020-10-13 20:15:40.819388
+end :2020-10-13 20:15:40.819388
+start time : 2020-10-13 20:15:40.877430
+Result: Hasanah - TRUE
+86.75
+end :2020-10-13 20:15:40.909454
+start time : 2020-10-13 20:15:40.968494
+Result: Hasanah - TRUE
+83.4
+end :2020-10-13 20:15:41.000519
+start time : 2020-10-13 20:15:41.059560
+Result: Hasanah - TRUE
+90.49
+end :2020-10-13 20:15:41.091583
+start time : 2020-10-13 20:15:41.151624
+Result: Hasanah - TRUE
+92.32
+end :2020-10-13 20:15:41.183649
+start time : 2020-10-13 20:15:41.242690
+end :2020-10-13 20:15:41.242690
+start time : 2020-10-13 20:15:41.301732
+Result: Hasanah - TRUE
+83.16
+end :2020-10-13 20:15:41.333755
+start time : 2020-10-13 20:15:41.388793
+Result: Hasanah - TRUE
+89.39
+end :2020-10-13 20:15:41.420818
+start time : 2020-10-13 20:15:41.478858
+Result: Hasanah - TRUE
+92.57
+end :2020-10-13 20:15:41.510882
+start time : 2020-10-13 20:15:41.567920
+Result: Hasanah - TRUE
+92.68
+end :2020-10-13 20:15:41.600946
+start time : 2020-10-13 20:15:41.658986
+Result: Hasanah - TRUE
+98.38
+end :2020-10-13 20:15:41.691010
+start time : 2020-10-13 20:15:41.773077
+Result: Hasanah - TRUE
+97.8
+end :2020-10-13 20:15:41.805122
+start time : 2020-10-13 20:15:41.862160
+Result: Hasanah - TRUE
+91.7
+end :2020-10-13 20:15:41.894185
+start time : 2020-10-13 20:15:41.951223
+Result: Hasanah - TRUE
+91.61
+end :2020-10-13 20:15:41.983248
+start time : 2020-10-13 20:15:42.038286
+Result: Hasanah - TRUE
+93.61
+end :2020-10-13 20:15:42.070310
+start time : 2020-10-13 20:15:42.127350
+Result: Hasanah - TRUE
+91.87
+end :2020-10-13 20:15:42.160374
+start time : 2020-10-13 20:15:42.219415
+Result: Hasanah - TRUE
+92.77
+end :2020-10-13 20:15:42.251439
+start time : 2020-10-13 20:15:42.307478
+Result: Hasanah - TRUE
+88.71
+end :2020-10-13 20:15:42.339501
+start time : 2020-10-13 20:15:42.398430
+Result: Hasanah - TRUE
+90.29
+end :2020-10-13 20:15:42.430454
+start time : 2020-10-13 20:15:42.484491
+Result: Hasanah - TRUE
+89.63
+end :2020-10-13 20:15:42.516514
+start time : 2020-10-13 20:15:42.574555
+Result: Hasanah - TRUE
+87.62
+end :2020-10-13 20:15:42.606579
+start time : 2020-10-13 20:15:42.665620
+Result: Hasanah - TRUE
+83.83
+end :2020-10-13 20:15:42.698645
+start time : 2020-10-13 20:15:42.757686
+Result: Hasanah - TRUE
+87.21
+end :2020-10-13 20:15:42.789710
+start time : 2020-10-13 20:15:42.847749
+Result: Hasanah - TRUE
+92.48
+end :2020-10-13 20:15:42.879774
+start time : 2020-10-13 20:15:42.932811
+Result: Hasanah - TRUE
+87.15
+end :2020-10-13 20:15:42.964835
+start time : 2020-10-13 20:15:43.022874
+Result: Bulan - false
+93.0
+end :2020-10-13 20:15:43.056900
+start time : 2020-10-13 20:15:43.114940
+Result: Hasanah - TRUE
+87.56
+end :2020-10-13 20:15:43.146964
+start time : 2020-10-13 20:15:43.201002
+Result: Hasanah - TRUE
+80.49
+end :2020-10-13 20:15:43.233026
+start time : 2020-10-13 20:15:43.293066
+Result: Hasanah - TRUE
+83.86
+end :2020-10-13 20:15:43.325090
+start time : 2020-10-13 20:15:43.384131
+Result: Hasanah - TRUE
+87.33
+end :2020-10-13 20:15:43.416156
+start time : 2020-10-13 20:15:43.474196
+Result: Hasanah - TRUE
+87.96
+end :2020-10-13 20:15:43.506220
+start time : 2020-10-13 20:15:43.564259
+Result: Hasanah - TRUE
+92.55
+end :2020-10-13 20:15:43.596284
+start time : 2020-10-13 20:15:43.654324
+end :2020-10-13 20:15:43.654324
+start time : 2020-10-13 20:15:43.712365
+Result: Hasanah - TRUE
+100.29
+end :2020-10-13 20:15:43.744389
+start time : 2020-10-13 20:15:43.801428
+Result: Hasanah - TRUE
+97.02
+end :2020-10-13 20:15:43.834453
+start time : 2020-10-13 20:15:43.892493
+Result: Hasanah - TRUE
+99.88
+end :2020-10-13 20:15:43.924517
+start time : 2020-10-13 20:15:43.981557
+Result: Hasanah - TRUE
+97.67
+end :2020-10-13 20:15:44.013581
+start time : 2020-10-13 20:15:44.066616
+end :2020-10-13 20:15:44.066616
+start time : 2020-10-13 20:15:44.123657
+end :2020-10-13 20:15:44.123657
+start time : 2020-10-13 20:15:44.181699
+Result: Hasanah - TRUE
+101.02
+end :2020-10-13 20:15:44.214724
+start time : 2020-10-13 20:15:44.272763
+end :2020-10-13 20:15:44.272763
+start time : 2020-10-13 20:15:44.329803
+Result: Hasanah - TRUE
+96.7
+end :2020-10-13 20:15:44.361828
+start time : 2020-10-13 20:15:44.418867
+Result: Hasanah - TRUE
+95.42
+end :2020-10-13 20:15:44.451894
+start time : 2020-10-13 20:15:44.509933
+Result: Bunga - false
+98.85
+end :2020-10-13 20:15:44.541957
+start time : 2020-10-13 20:15:44.599995
+Result: Hasanah - TRUE
+97.76
+end :2020-10-13 20:15:44.632021
+start time : 2020-10-13 20:15:44.690061
+Result: Hasanah - TRUE
+97.53
+end :2020-10-13 20:15:44.722084
+start time : 2020-10-13 20:15:44.781125
+Result: Hasanah - TRUE
+96.02
+end :2020-10-13 20:15:44.812149
+start time : 2020-10-13 20:15:44.867186
+Result: Hasanah - TRUE
+97.24
+end :2020-10-13 20:15:44.900211
+start time : 2020-10-13 20:15:44.959252
+Result: Hasanah - TRUE
+93.22
+end :2020-10-13 20:15:44.991276
+start time : 2020-10-13 20:15:45.050316
+Result: Hasanah - TRUE
+86.26
+end :2020-10-13 20:15:45.082340
+start time : 2020-10-13 20:15:45.141381
+Result: Hasanah - TRUE
+82.78
+end :2020-10-13 20:15:45.174406
+start time : 2020-10-13 20:15:45.232446
+Result: Hasanah - TRUE
+93.2
+end :2020-10-13 20:15:45.264471
+start time : 2020-10-13 20:15:45.323512
+Result: Hasanah - TRUE
+96.5
+end :2020-10-13 20:15:45.355535
+start time : 2020-10-13 20:15:45.414575
+end :2020-10-13 20:15:45.414575
+start time : 2020-10-13 20:15:45.469616
+end :2020-10-13 20:15:45.469616
+start time : 2020-10-13 20:15:45.527656
+end :2020-10-13 20:15:45.527656
+start time : 2020-10-13 20:15:45.586697
+Result: Hasanah - TRUE
+98.85
+end :2020-10-13 20:15:45.619723
+start time : 2020-10-13 20:15:45.677763
+end :2020-10-13 20:15:45.677763
+start time : 2020-10-13 20:15:45.735804
+Result: Hasanah - TRUE
+85.49
+end :2020-10-13 20:15:45.767828
+start time : 2020-10-13 20:15:45.824867
+Result: Hasanah - TRUE
+89.99
+end :2020-10-13 20:15:45.857892
+start time : 2020-10-13 20:15:45.915932
+Result: Hasanah - TRUE
+100.78
+end :2020-10-13 20:15:45.947956
+start time : 2020-10-13 20:15:46.005996
+Result: Hasanah - TRUE
+93.56
+end :2020-10-13 20:15:46.038020
+start time : 2020-10-13 20:15:46.096061
+Result: Hasanah - TRUE
+97.26
+end :2020-10-13 20:15:46.128085
+start time : 2020-10-13 20:15:46.185124
+Result: Hasanah - TRUE
+95.47
+end :2020-10-13 20:15:46.217148
+start time : 2020-10-13 20:15:46.273187
+Result: Hasanah - TRUE
+106.21
+end :2020-10-13 20:15:46.305210
+start time : 2020-10-13 20:15:46.360248
+Result: Hasanah - TRUE
+96.16
+end :2020-10-13 20:15:46.393214
+start time : 2020-10-13 20:15:46.445248
+Result: Hasanah - TRUE
+98.38
+end :2020-10-13 20:15:46.478274
+start time : 2020-10-13 20:15:46.535313
+Result: Hasanah - TRUE
+100.66
+end :2020-10-13 20:15:46.567338
+start time : 2020-10-13 20:15:46.623375
+Result: Hasanah - TRUE
+100.08
+end :2020-10-13 20:15:46.655400
+start time : 2020-10-13 20:15:46.712440
+Result: Hasanah - TRUE
+102.41
+end :2020-10-13 20:15:46.744463
+start time : 2020-10-13 20:15:46.801503
+Result: Hasanah - TRUE
+96.05
+end :2020-10-13 20:15:46.833526
+start time : 2020-10-13 20:15:46.890566
+Result: Hasanah - TRUE
+90.92
+end :2020-10-13 20:15:46.922590
+start time : 2020-10-13 20:15:46.980629
+Result: Hasanah - TRUE
+90.88
+end :2020-10-13 20:15:47.012655
+start time : 2020-10-13 20:15:47.070695
+Result: Hasanah - TRUE
+92.3
+end :2020-10-13 20:15:47.103719
+start time : 2020-10-13 20:15:47.161759
+Result: Hasanah - TRUE
+94.64
+end :2020-10-13 20:15:47.193783
+start time : 2020-10-13 20:15:47.251823
+Result: Hasanah - TRUE
+97.69
+end :2020-10-13 20:15:47.283848
+start time : 2020-10-13 20:15:47.341887
+Result: Hasanah - TRUE
+85.88
+end :2020-10-13 20:15:47.374912
+start time : 2020-10-13 20:15:47.434953
+Result: Hasanah - TRUE
+104.2
+end :2020-10-13 20:15:47.466977
+start time : 2020-10-13 20:15:47.526018
+Result: Hasanah - TRUE
+91.59
+end :2020-10-13 20:15:47.558042
+start time : 2020-10-13 20:15:47.615081
+Result: Hasanah - TRUE
+90.65
+end :2020-10-13 20:15:47.647105
+start time : 2020-10-13 20:15:47.705145
+Result: Hasanah - TRUE
+82.09
+end :2020-10-13 20:15:47.737169
+start time : 2020-10-13 20:15:47.796209
+Result: Hasanah - TRUE
+82.11
+end :2020-10-13 20:15:47.828233
+start time : 2020-10-13 20:15:47.886275
+Result: Hasanah - TRUE
+77.77
+end :2020-10-13 20:15:47.919299
+start time : 2020-10-13 20:15:47.979341
+Result: Hasanah - TRUE
+84.31
+end :2020-10-13 20:15:48.010364
+start time : 2020-10-13 20:15:48.070404
+Result: Hasanah - TRUE
+84.78
+end :2020-10-13 20:15:48.101428
+start time : 2020-10-13 20:15:48.160468
+Result: Hasanah - TRUE
+87.78
+end :2020-10-13 20:15:48.193494
+start time : 2020-10-13 20:15:48.251534
+Result: Hasanah - TRUE
+91.79
+end :2020-10-13 20:15:48.283558
+start time : 2020-10-13 20:15:48.341598
+Result: Hasanah - TRUE
+95.63
+end :2020-10-13 20:15:48.374623
+start time : 2020-10-13 20:15:48.433262
+Result: Hasanah - TRUE
+98.35
+end :2020-10-13 20:15:48.465285
+start time : 2020-10-13 20:15:48.522325
+end :2020-10-13 20:15:48.522325
+start time : 2020-10-13 20:15:48.580365
+end :2020-10-13 20:15:48.580365
+start time : 2020-10-13 20:15:48.684376
+Result: Hasanah - TRUE
+94.49
+end :2020-10-13 20:15:48.716418
+start time : 2020-10-13 20:15:48.775462
+Result: Hasanah - TRUE
+97.38
+end :2020-10-13 20:15:48.807486
+start time : 2020-10-13 20:15:48.867528
+Result: Hasanah - TRUE
+96.41
+end :2020-10-13 20:15:48.899552
+start time : 2020-10-13 20:15:48.957591
+Result: Hasanah - TRUE
+95.26
+end :2020-10-13 20:15:48.989616
+start time : 2020-10-13 20:15:49.047656
+Result: Hasanah - TRUE
+96.07
+end :2020-10-13 20:15:49.079678
+start time : 2020-10-13 20:15:49.137720
+Result: Hasanah - TRUE
+92.54
+end :2020-10-13 20:15:49.169744

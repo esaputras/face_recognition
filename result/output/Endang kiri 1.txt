@@ -1,0 +1,236 @@
+Endang
+kiri
+3
+start time : 2020-10-13 20:25:55.686944
+start time : 2020-10-13 20:26:19.940614
+Result: Endang - TRUE
+73.53
+end :2020-10-13 20:26:19.983963
+start time : 2020-10-13 20:26:20.124023
+Result: Endang - TRUE
+73.53
+end :2020-10-13 20:26:20.162051
+start time : 2020-10-13 20:26:20.305151
+Result: Endang - TRUE
+73.87
+end :2020-10-13 20:26:20.340199
+start time : 2020-10-13 20:26:20.481297
+Result: Endang - TRUE
+75.16
+end :2020-10-13 20:26:20.516324
+start time : 2020-10-13 20:26:20.654421
+Result: Endang - TRUE
+75.12
+end :2020-10-13 20:26:20.689447
+start time : 2020-10-13 20:26:20.820539
+Result: Endang - TRUE
+82.12
+end :2020-10-13 20:26:20.856566
+start time : 2020-10-13 20:26:20.995665
+Result: Endang - TRUE
+76.1
+end :2020-10-13 20:26:21.030690
+start time : 2020-10-13 20:26:21.164784
+Result: Endang - TRUE
+80.09
+end :2020-10-13 20:26:21.199810
+start time : 2020-10-13 20:26:21.332904
+Result: Endang - TRUE
+75.74
+end :2020-10-13 20:26:21.367930
+start time : 2020-10-13 20:26:21.502933
+Result: Endang - TRUE
+83.56
+end :2020-10-13 20:26:21.537959
+start time : 2020-10-13 20:26:21.671054
+Result: Endang - TRUE
+74.22
+end :2020-10-13 20:26:21.707079
+start time : 2020-10-13 20:26:21.835169
+Result: Endang - TRUE
+75.03
+end :2020-10-13 20:26:21.870195
+start time : 2020-10-13 20:26:22.018300
+Result: Endang - TRUE
+76.5
+end :2020-10-13 20:26:22.053326
+start time : 2020-10-13 20:26:22.185418
+Result: Endang - TRUE
+80.01
+end :2020-10-13 20:26:22.220445
+start time : 2020-10-13 20:26:22.364547
+Result: Endang - TRUE
+75.91
+end :2020-10-13 20:26:22.399572
+start time : 2020-10-13 20:26:22.547677
+Result: Endang - TRUE
+81.41
+end :2020-10-13 20:26:22.580715
+start time : 2020-10-13 20:26:22.711793
+Result: Endang - TRUE
+79.23
+end :2020-10-13 20:26:22.746819
+start time : 2020-10-13 20:26:22.886918
+Result: Endang - TRUE
+74.45
+end :2020-10-13 20:26:22.920943
+start time : 2020-10-13 20:26:23.056039
+Result: Endang - TRUE
+74.67
+end :2020-10-13 20:26:23.090064
+start time : 2020-10-13 20:26:23.229162
+Result: Endang - TRUE
+75.07
+end :2020-10-13 20:26:23.263186
+start time : 2020-10-13 20:26:23.395279
+Result: Endang - TRUE
+76.28
+end :2020-10-13 20:26:23.429305
+start time : 2020-10-13 20:26:23.567402
+Result: Endang - TRUE
+82.21
+end :2020-10-13 20:26:23.601428
+start time : 2020-10-13 20:26:23.738524
+Result: Endang - TRUE
+80.98
+end :2020-10-13 20:26:23.772549
+start time : 2020-10-13 20:26:23.904646
+Result: Endang - TRUE
+81.36
+end :2020-10-13 20:26:23.938667
+start time : 2020-10-13 20:26:24.069759
+Result: Endang - TRUE
+77.71
+end :2020-10-13 20:26:24.104785
+start time : 2020-10-13 20:26:24.252889
+Result: Endang - TRUE
+80.61
+end :2020-10-13 20:26:24.286914
+start time : 2020-10-13 20:26:24.434019
+Result: Endang - TRUE
+84.94
+end :2020-10-13 20:26:24.469047
+start time : 2020-10-13 20:26:24.613146
+Result: Endang - TRUE
+92.16
+end :2020-10-13 20:26:24.648172
+start time : 2020-10-13 20:26:24.782266
+Result: Endang - TRUE
+82.77
+end :2020-10-13 20:26:24.816292
+start time : 2020-10-13 20:26:24.965396
+Result: Endang - TRUE
+87.32
+end :2020-10-13 20:26:25.000422
+start time : 2020-10-13 20:26:25.145524
+Result: Endang - TRUE
+83.49
+end :2020-10-13 20:26:25.179550
+start time : 2020-10-13 20:26:25.314645
+Result: Endang - TRUE
+88.09
+end :2020-10-13 20:26:25.348670
+start time : 2020-10-13 20:26:25.472130
+Result: Endang - TRUE
+91.03
+end :2020-10-13 20:26:25.519009
+start time : 2020-10-13 20:26:25.644007
+Result: Endang - TRUE
+83.93
+end :2020-10-13 20:26:25.690897
+start time : 2020-10-13 20:26:25.815884
+Result: Endang - TRUE
+76.36
+end :2020-10-13 20:26:25.862762
+start time : 2020-10-13 20:26:25.987761
+Result: Endang - TRUE
+80.51
+end :2020-10-13 20:26:26.034638
+start time : 2020-10-13 20:26:26.159639
+Result: Endang - TRUE
+74.73
+end :2020-10-13 20:26:26.206530
+start time : 2020-10-13 20:26:26.331516
+Result: Endang - TRUE
+76.25
+end :2020-10-13 20:26:26.378394
+start time : 2020-10-13 20:26:26.525896
+Result: Endang - TRUE
+69.04
+end :2020-10-13 20:26:26.559921
+start time : 2020-10-13 20:26:26.692013
+Result: Endang - TRUE
+75.9
+end :2020-10-13 20:26:26.726039
+start time : 2020-10-13 20:26:26.870140
+Result: Endang - TRUE
+73.92
+end :2020-10-13 20:26:26.904166
+start time : 2020-10-13 20:26:27.035258
+Result: Endang - TRUE
+74.28
+end :2020-10-13 20:26:27.069283
+start time : 2020-10-13 20:26:27.217388
+Result: Endang - TRUE
+72.35
+end :2020-10-13 20:26:27.251416
+start time : 2020-10-13 20:26:27.400464
+Result: Endang - TRUE
+76.37
+end :2020-10-13 20:26:27.435491
+start time : 2020-10-13 20:26:27.574588
+Result: Endang - TRUE
+73.42
+end :2020-10-13 20:26:27.608616
+start time : 2020-10-13 20:26:27.744709
+Result: Endang - TRUE
+75.6
+end :2020-10-13 20:26:27.778734
+start time : 2020-10-13 20:26:27.919834
+Result: Endang - TRUE
+73.42
+end :2020-10-13 20:26:27.953859
+start time : 2020-10-13 20:26:28.087953
+Result: Endang - TRUE
+68.76
+end :2020-10-13 20:26:28.121979
+start time : 2020-10-13 20:26:28.256072
+Result: Endang - TRUE
+74.75
+end :2020-10-13 20:26:28.291099
+start time : 2020-10-13 20:26:28.422191
+Result: Endang - TRUE
+78.89
+end :2020-10-13 20:26:28.457218
+start time : 2020-10-13 20:26:28.591311
+Result: Endang - TRUE
+80.55
+end :2020-10-13 20:26:28.626338
+start time : 2020-10-13 20:26:28.771439
+Result: Endang - TRUE
+79.62
+end :2020-10-13 20:26:28.806466
+start time : 2020-10-13 20:26:28.941561
+Result: Endang - TRUE
+83.45
+end :2020-10-13 20:26:28.976587
+start time : 2020-10-13 20:26:29.111681
+Result: Endang - TRUE
+80.79
+end :2020-10-13 20:26:29.146708
+start time : 2020-10-13 20:26:29.289808
+Result: Endang - TRUE
+77.83
+end :2020-10-13 20:26:29.324833
+start time : 2020-10-13 20:26:29.461931
+Result: Endang - TRUE
+87.51
+end :2020-10-13 20:26:29.496957
+start time : 2020-10-13 20:26:29.630049
+Result: Endang - TRUE
+92.17
+end :2020-10-13 20:26:29.664075
+start time : 2020-10-13 20:26:29.799171
+end :2020-10-13 20:26:29.799171
+start time : 2020-10-13 20:26:29.946276
+end :2020-10-13 20:26:29.946276

@@ -1,0 +1,424 @@
+Bulan
+5
+
+start time : 2020-10-13 20:33:19.611517
+start time : 2020-10-13 20:33:22.594762
+Result: Bulan - TRUE
+85.86
+end :2020-10-13 20:33:22.641639
+start time : 2020-10-13 20:33:22.704140
+Result: Bunga - false
+83.41
+end :2020-10-13 20:33:22.751015
+start time : 2020-10-13 20:33:22.813514
+Result: Bulan - TRUE
+80.76
+end :2020-10-13 20:33:22.860424
+start time : 2020-10-13 20:33:22.907266
+Result: Bulan - TRUE
+89.53
+end :2020-10-13 20:33:22.969781
+start time : 2020-10-13 20:33:23.016642
+Result: Bulan - TRUE
+71.03
+end :2020-10-13 20:33:23.063520
+start time : 2020-10-13 20:33:23.110393
+Result: Bulan - TRUE
+75.66
+end :2020-10-13 20:33:23.157270
+start time : 2020-10-13 20:33:23.204145
+Result: Bulan - TRUE
+81.33
+end :2020-10-13 20:33:23.251022
+start time : 2020-10-13 20:33:23.297896
+Result: Bulan - TRUE
+88.01
+end :2020-10-13 20:33:23.344773
+start time : 2020-10-13 20:33:23.406810
+Result: Bulan - TRUE
+85.36
+end :2020-10-13 20:33:23.438855
+start time : 2020-10-13 20:33:23.502900
+Result: Bulan - TRUE
+84.73
+end :2020-10-13 20:33:23.536925
+start time : 2020-10-13 20:33:23.597967
+Result: Bulan - TRUE
+82.23
+end :2020-10-13 20:33:23.630992
+start time : 2020-10-13 20:33:23.693034
+Result: Bulan - TRUE
+86.47
+end :2020-10-13 20:33:23.725059
+start time : 2020-10-13 20:33:23.786101
+Result: Bulan - TRUE
+85.22
+end :2020-10-13 20:33:23.819126
+start time : 2020-10-13 20:33:23.888174
+Result: Bulan - TRUE
+84.88
+end :2020-10-13 20:33:23.924203
+start time : 2020-10-13 20:33:23.995250
+Result: Bulan - TRUE
+89.02
+end :2020-10-13 20:33:24.029276
+start time : 2020-10-13 20:33:24.097323
+Result: Bulan - TRUE
+84.51
+end :2020-10-13 20:33:24.129346
+start time : 2020-10-13 20:33:24.195398
+Result: Bulan - TRUE
+89.89
+end :2020-10-13 20:33:24.229418
+start time : 2020-10-13 20:33:24.291462
+Result: Bulan - TRUE
+84.07
+end :2020-10-13 20:33:24.325485
+start time : 2020-10-13 20:33:24.391532
+Result: Bulan - TRUE
+93.37
+end :2020-10-13 20:33:24.426558
+start time : 2020-10-13 20:33:24.486600
+Result: Bulan - TRUE
+88.88
+end :2020-10-13 20:33:24.519624
+start time : 2020-10-13 20:33:24.582667
+Result: Bulan - TRUE
+87.44
+end :2020-10-13 20:33:24.615693
+start time : 2020-10-13 20:33:24.681737
+Result: Bulan - TRUE
+81.07
+end :2020-10-13 20:33:24.713760
+start time : 2020-10-13 20:33:24.782810
+Result: Bulan - TRUE
+94.62
+end :2020-10-13 20:33:24.823841
+start time : 2020-10-13 20:33:24.896891
+Result: Bulan - TRUE
+86.18
+end :2020-10-13 20:33:24.931917
+start time : 2020-10-13 20:33:24.991959
+Result: Bulan - TRUE
+91.07
+end :2020-10-13 20:33:25.025983
+start time : 2020-10-13 20:33:25.086026
+Result: Bulan - TRUE
+87.0
+end :2020-10-13 20:33:25.119051
+start time : 2020-10-13 20:33:25.179092
+Result: Bulan - TRUE
+89.91
+end :2020-10-13 20:33:25.211116
+start time : 2020-10-13 20:33:25.270157
+Result: Bulan - TRUE
+90.7
+end :2020-10-13 20:33:25.303182
+start time : 2020-10-13 20:33:25.365225
+Result: Bunga - false
+82.99
+end :2020-10-13 20:33:25.407111
+start time : 2020-10-13 20:33:25.485236
+Result: Bulan - TRUE
+76.91
+end :2020-10-13 20:33:25.532126
+start time : 2020-10-13 20:33:25.610236
+Result: Bulan - TRUE
+79.83
+end :2020-10-13 20:33:25.657134
+start time : 2020-10-13 20:33:25.719615
+Result: Bunga - false
+82.72
+end :2020-10-13 20:33:25.766490
+start time : 2020-10-13 20:33:25.828989
+Result: Bulan - TRUE
+70.09
+end :2020-10-13 20:33:25.875866
+start time : 2020-10-13 20:33:25.922741
+Result: Bulan - TRUE
+76.79
+end :2020-10-13 20:33:25.969631
+start time : 2020-10-13 20:33:26.016493
+Result: Dhifa - false
+82.41
+end :2020-10-13 20:33:26.063371
+start time : 2020-10-13 20:33:26.110244
+Result: Bulan - TRUE
+74.15
+end :2020-10-13 20:33:26.157122
+start time : 2020-10-13 20:33:26.203995
+Result: Bulan - TRUE
+73.44
+end :2020-10-13 20:33:26.250873
+start time : 2020-10-13 20:33:26.313372
+Result: Bulan - TRUE
+75.6
+end :2020-10-13 20:33:26.344625
+start time : 2020-10-13 20:33:26.406671
+Result: Bulan - TRUE
+75.13
+end :2020-10-13 20:33:26.438695
+start time : 2020-10-13 20:33:26.502740
+Result: Bulan - TRUE
+76.68
+end :2020-10-13 20:33:26.537770
+start time : 2020-10-13 20:33:26.599809
+Result: Bulan - TRUE
+82.8
+end :2020-10-13 20:33:26.633835
+start time : 2020-10-13 20:33:26.698880
+Result: Bulan - TRUE
+74.89
+end :2020-10-13 20:33:26.731905
+start time : 2020-10-13 20:33:26.796949
+Result: Bulan - TRUE
+79.59
+end :2020-10-13 20:33:26.830974
+start time : 2020-10-13 20:33:26.896021
+Result: Bulan - TRUE
+82.44
+end :2020-10-13 20:33:26.928044
+start time : 2020-10-13 20:33:26.989086
+Result: Dhifa - false
+80.63
+end :2020-10-13 20:33:27.022110
+start time : 2020-10-13 20:33:27.085154
+Result: Bulan - TRUE
+71.71
+end :2020-10-13 20:33:27.118180
+start time : 2020-10-13 20:33:27.181223
+Result: Bulan - TRUE
+76.44
+end :2020-10-13 20:33:27.214248
+start time : 2020-10-13 20:33:27.277292
+Result: Bulan - TRUE
+72.14
+end :2020-10-13 20:33:27.309316
+start time : 2020-10-13 20:33:27.370358
+Result: Bulan - TRUE
+76.4
+end :2020-10-13 20:33:27.405384
+start time : 2020-10-13 20:33:27.466427
+Result: Bunga - false
+82.3
+end :2020-10-13 20:33:27.500450
+start time : 2020-10-13 20:33:27.562495
+Result: Bulan - TRUE
+78.83
+end :2020-10-13 20:33:27.595519
+start time : 2020-10-13 20:33:27.659563
+Result: Bulan - TRUE
+78.3
+end :2020-10-13 20:33:27.692588
+start time : 2020-10-13 20:33:27.756632
+Result: Bulan - TRUE
+77.9
+end :2020-10-13 20:33:27.788656
+start time : 2020-10-13 20:33:27.854702
+Result: Bulan - TRUE
+79.97
+end :2020-10-13 20:33:27.887727
+start time : 2020-10-13 20:33:27.948769
+Result: Bulan - TRUE
+78.66
+end :2020-10-13 20:33:27.980793
+start time : 2020-10-13 20:33:28.041835
+Result: Bulan - TRUE
+79.36
+end :2020-10-13 20:33:28.073860
+start time : 2020-10-13 20:33:28.133901
+Result: Bulan - TRUE
+79.6
+end :2020-10-13 20:33:28.165924
+start time : 2020-10-13 20:33:28.225966
+Result: Bunga - false
+84.77
+end :2020-10-13 20:33:28.258991
+start time : 2020-10-13 20:33:28.319033
+Result: Bulan - TRUE
+84.64
+end :2020-10-13 20:33:28.355058
+start time : 2020-10-13 20:33:28.415101
+Result: Bulan - TRUE
+76.38
+end :2020-10-13 20:33:28.448125
+start time : 2020-10-13 20:33:28.506165
+Result: Bulan - TRUE
+80.41
+end :2020-10-13 20:33:28.539190
+start time : 2020-10-13 20:33:28.597230
+Result: Bulan - TRUE
+86.27
+end :2020-10-13 20:33:28.630255
+start time : 2020-10-13 20:33:28.690296
+Result: Bulan - TRUE
+87.35
+end :2020-10-13 20:33:28.722321
+start time : 2020-10-13 20:33:28.783362
+Result: Bulan - TRUE
+87.78
+end :2020-10-13 20:33:28.815387
+start time : 2020-10-13 20:33:28.875428
+Result: Bulan - TRUE
+92.03
+end :2020-10-13 20:33:28.908453
+start time : 2020-10-13 20:33:28.967494
+Result: Bulan - TRUE
+91.56
+end :2020-10-13 20:33:29.000519
+start time : 2020-10-13 20:33:29.059559
+Result: Bulan - TRUE
+92.74
+end :2020-10-13 20:33:29.092584
+start time : 2020-10-13 20:33:29.152625
+Result: Bulan - TRUE
+94.21
+end :2020-10-13 20:33:29.185652
+start time : 2020-10-13 20:33:29.245691
+Result: Bulan - TRUE
+93.54
+end :2020-10-13 20:33:29.278715
+start time : 2020-10-13 20:33:29.338758
+Result: Bulan - TRUE
+90.23
+end :2020-10-13 20:33:29.370781
+start time : 2020-10-13 20:33:29.432902
+Result: Bulan - TRUE
+91.61
+end :2020-10-13 20:33:29.464925
+start time : 2020-10-13 20:33:29.525968
+Result: Bulan - TRUE
+90.71
+end :2020-10-13 20:33:29.559992
+start time : 2020-10-13 20:33:29.623037
+Result: Bulan - TRUE
+88.99
+end :2020-10-13 20:33:29.655060
+start time : 2020-10-13 20:33:29.717103
+Result: Bulan - TRUE
+90.91
+end :2020-10-13 20:33:29.750128
+start time : 2020-10-13 20:33:29.811170
+Result: Bulan - TRUE
+88.48
+end :2020-10-13 20:33:29.844194
+start time : 2020-10-13 20:33:29.902235
+Result: Bulan - TRUE
+89.67
+end :2020-10-13 20:33:29.934257
+start time : 2020-10-13 20:33:29.996302
+Result: Bulan - TRUE
+87.8
+end :2020-10-13 20:33:30.028325
+start time : 2020-10-13 20:33:30.089367
+Result: Bulan - TRUE
+79.23
+end :2020-10-13 20:33:30.122392
+start time : 2020-10-13 20:33:30.182434
+Result: Bulan - TRUE
+85.45
+end :2020-10-13 20:33:30.216459
+start time : 2020-10-13 20:33:30.276501
+Result: Bulan - TRUE
+84.73
+end :2020-10-13 20:33:30.309526
+start time : 2020-10-13 20:33:30.370568
+Result: Bulan - TRUE
+88.86
+end :2020-10-13 20:33:30.408298
+start time : 2020-10-13 20:33:30.455171
+Result: Dhifa - false
+88.54
+end :2020-10-13 20:33:30.502049
+start time : 2020-10-13 20:33:30.548923
+Result: Bulan - TRUE
+89.42
+end :2020-10-13 20:33:30.595799
+start time : 2020-10-13 20:33:30.642674
+Result: Bunga - false
+88.86
+end :2020-10-13 20:33:30.689552
+start time : 2020-10-13 20:33:30.736425
+Result: Bulan - TRUE
+84.8
+end :2020-10-13 20:33:30.783300
+start time : 2020-10-13 20:33:30.830177
+Result: Bulan - TRUE
+81.84
+end :2020-10-13 20:33:30.877053
+start time : 2020-10-13 20:33:30.923927
+Result: Bulan - TRUE
+79.72
+end :2020-10-13 20:33:30.970805
+start time : 2020-10-13 20:33:31.017679
+Result: Bulan - TRUE
+81.86
+end :2020-10-13 20:33:31.064568
+start time : 2020-10-13 20:33:31.111430
+Result: Bulan - TRUE
+69.43
+end :2020-10-13 20:33:31.158308
+start time : 2020-10-13 20:33:31.205181
+Result: Bulan - TRUE
+75.81
+end :2020-10-13 20:33:31.252059
+start time : 2020-10-13 20:33:31.298933
+Result: Dhifa - false
+79.69
+end :2020-10-13 20:33:31.361434
+start time : 2020-10-13 20:33:31.423072
+Result: Bulan - TRUE
+75.38
+end :2020-10-13 20:33:31.456097
+start time : 2020-10-13 20:33:31.518141
+Result: Bulan - TRUE
+75.6
+end :2020-10-13 20:33:31.550165
+start time : 2020-10-13 20:33:31.614208
+Result: Bulan - TRUE
+65.87
+end :2020-10-13 20:33:31.646232
+start time : 2020-10-13 20:33:31.708276
+Result: Bulan - TRUE
+70.93
+end :2020-10-13 20:33:31.739299
+start time : 2020-10-13 20:33:31.801341
+Result: Bulan - TRUE
+69.02
+end :2020-10-13 20:33:31.833366
+start time : 2020-10-13 20:33:31.898410
+Result: Bulan - TRUE
+67.79
+end :2020-10-13 20:33:31.930434
+start time : 2020-10-13 20:33:31.992477
+Result: Bulan - TRUE
+76.65
+end :2020-10-13 20:33:32.025502
+start time : 2020-10-13 20:33:32.086545
+Result: Bulan - TRUE
+65.01
+end :2020-10-13 20:33:32.118569
+start time : 2020-10-13 20:33:32.174610
+Result: Bulan - TRUE
+67.02
+end :2020-10-13 20:33:32.207632
+start time : 2020-10-13 20:33:32.268674
+Result: Bulan - TRUE
+70.44
+end :2020-10-13 20:33:32.301699
+start time : 2020-10-13 20:33:32.362741
+Result: Bulan - TRUE
+68.12
+end :2020-10-13 20:33:32.396766
+start time : 2020-10-13 20:33:32.457808
+Result: Bulan - TRUE
+72.36
+end :2020-10-13 20:33:32.489833
+start time : 2020-10-13 20:33:32.550874
+Result: Bulan - TRUE
+71.77
+end :2020-10-13 20:33:32.582899
+start time : 2020-10-13 20:33:32.642941
+Result: Bulan - TRUE
+78.65
+end :2020-10-13 20:33:32.675965

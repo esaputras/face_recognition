@@ -1,0 +1,248 @@
+Raihan
+kiri
+10
+start time : 2020-10-14 15:28:53.087435
+start time : 2020-10-14 15:29:01.244047
+Result: Raihan - TRUE
+82.23
+end :2020-10-14 15:29:01.286240
+start time : 2020-10-14 15:29:01.413289
+Result: Wildan- FALSE
+88.81
+end :2020-10-14 15:29:01.450346
+start time : 2020-10-14 15:29:01.576407
+Result: Wildan- FALSE
+90.57
+end :2020-10-14 15:29:01.612432
+start time : 2020-10-14 15:29:01.743524
+Result: Raihan - TRUE
+80.41
+end :2020-10-14 15:29:01.777550
+start time : 2020-10-14 15:29:01.911644
+Result: Raihan - TRUE
+83.62
+end :2020-10-14 15:29:01.946671
+start time : 2020-10-14 15:29:02.077763
+Result: Raihan - TRUE
+82.91
+end :2020-10-14 15:29:02.112826
+start time : 2020-10-14 15:29:02.246884
+Result: Wildan- FALSE
+86.64
+end :2020-10-14 15:29:02.281911
+start time : 2020-10-14 15:29:02.418004
+Result: Wildan- FALSE
+84.76
+end :2020-10-14 15:29:02.452030
+start time : 2020-10-14 15:29:02.585124
+Result: Wildan- FALSE
+90.84
+end :2020-10-14 15:29:02.619152
+start time : 2020-10-14 15:29:02.748239
+Result: Wildan- FALSE
+87.99
+end :2020-10-14 15:29:02.783268
+start time : 2020-10-14 15:29:02.916359
+Result: Raihan - TRUE
+86.99
+end :2020-10-14 15:29:02.952386
+start time : 2020-10-14 15:29:03.079475
+Result: Raihan - TRUE
+83.71
+end :2020-10-14 15:29:03.114502
+start time : 2020-10-14 15:29:03.244592
+Result: Raihan - TRUE
+80.8
+end :2020-10-14 15:29:03.279619
+start time : 2020-10-14 15:29:03.412713
+Result: Raihan - TRUE
+80.89
+end :2020-10-14 15:29:03.447742
+start time : 2020-10-14 15:29:03.582833
+Result: Raihan - TRUE
+81.84
+end :2020-10-14 15:29:03.617860
+start time : 2020-10-14 15:29:03.750953
+Result: Raihan - TRUE
+82.34
+end :2020-10-14 15:29:03.785978
+start time : 2020-10-14 15:29:03.915598
+Result: Raihan - TRUE
+81.39
+end :2020-10-14 15:29:03.962488
+start time : 2020-10-14 15:29:04.087474
+Result: Raihan - TRUE
+83.14
+end :2020-10-14 15:29:04.134352
+start time : 2020-10-14 15:29:04.267996
+Result: Raihan - TRUE
+85.42
+end :2020-10-14 15:29:04.303059
+start time : 2020-10-14 15:29:04.426107
+Result: Raihan - TRUE
+83.06
+end :2020-10-14 15:29:04.461133
+start time : 2020-10-14 15:29:04.598229
+Result: Raihan - TRUE
+82.37
+end :2020-10-14 15:29:04.633256
+start time : 2020-10-14 15:29:04.767349
+Result: Raihan - TRUE
+82.0
+end :2020-10-14 15:29:04.802376
+start time : 2020-10-14 15:29:04.933469
+Result: Raihan - TRUE
+90.96
+end :2020-10-14 15:29:04.969498
+start time : 2020-10-14 15:29:05.103589
+Result: Raihan - TRUE
+82.1
+end :2020-10-14 15:29:05.138614
+start time : 2020-10-14 15:29:05.266705
+Result: Raihan - TRUE
+81.19
+end :2020-10-14 15:29:05.301731
+start time : 2020-10-14 15:29:05.434824
+Result: Endang- FALSE
+89.83
+end :2020-10-14 15:29:05.468853
+start time : 2020-10-14 15:29:05.601944
+Result: Raihan - TRUE
+86.06
+end :2020-10-14 15:29:05.636973
+start time : 2020-10-14 15:29:05.768062
+Result: Raihan - TRUE
+82.25
+end :2020-10-14 15:29:05.803087
+start time : 2020-10-14 15:29:05.932179
+Result: Wildan- FALSE
+85.21
+end :2020-10-14 15:29:05.967243
+start time : 2020-10-14 15:29:06.083286
+Result: Wildan- FALSE
+91.32
+end :2020-10-14 15:29:06.118312
+start time : 2020-10-14 15:29:06.249404
+Result: Wildan- FALSE
+86.09
+end :2020-10-14 15:29:06.284430
+start time : 2020-10-14 15:29:06.414521
+Result: Wildan- FALSE
+93.34
+end :2020-10-14 15:29:06.449548
+start time : 2020-10-14 15:29:06.578639
+Result: Wildan- FALSE
+92.85
+end :2020-10-14 15:29:06.613667
+start time : 2020-10-14 15:29:06.740754
+Result: Wildan- FALSE
+92.08
+end :2020-10-14 15:29:06.775780
+start time : 2020-10-14 15:29:06.894864
+Result: Wildan- FALSE
+82.97
+end :2020-10-14 15:29:06.928889
+start time : 2020-10-14 15:29:07.059981
+Result: Wildan- FALSE
+88.81
+end :2020-10-14 15:29:07.094006
+start time : 2020-10-14 15:29:07.226889
+Result: Raihan - TRUE
+83.66
+end :2020-10-14 15:29:07.273767
+start time : 2020-10-14 15:29:07.398767
+Result: Endang- FALSE
+90.58
+end :2020-10-14 15:29:07.445644
+start time : 2020-10-14 15:29:07.570643
+Result: Raihan - TRUE
+81.25
+end :2020-10-14 15:29:07.617558
+start time : 2020-10-14 15:29:07.742521
+Result: Raihan - TRUE
+80.69
+end :2020-10-14 15:29:07.789436
+start time : 2020-10-14 15:29:07.914399
+Result: Raihan - TRUE
+83.87
+end :2020-10-14 15:29:07.961327
+start time : 2020-10-14 15:29:08.070650
+Result: Raihan - TRUE
+86.82
+end :2020-10-14 15:29:08.117529
+start time : 2020-10-14 15:29:08.249808
+Result: Raihan - TRUE
+93.56
+end :2020-10-14 15:29:08.284873
+start time : 2020-10-14 15:29:08.443946
+Result: Raihan - TRUE
+83.22
+end :2020-10-14 15:29:08.478972
+start time : 2020-10-14 15:29:08.625074
+Result: Raihan - TRUE
+85.09
+end :2020-10-14 15:29:08.669106
+start time : 2020-10-14 15:29:08.813209
+Result: Raihan - TRUE
+84.37
+end :2020-10-14 15:29:08.847234
+start time : 2020-10-14 15:29:08.981328
+Result: Raihan - TRUE
+81.35
+end :2020-10-14 15:29:09.016354
+start time : 2020-10-14 15:29:09.137439
+Result: Raihan - TRUE
+80.96
+end :2020-10-14 15:29:09.172465
+start time : 2020-10-14 15:29:09.282298
+Result: Raihan - TRUE
+82.1
+end :2020-10-14 15:29:09.329176
+start time : 2020-10-14 15:29:09.454177
+Result: Raihan - TRUE
+83.6
+end :2020-10-14 15:29:09.501067
+start time : 2020-10-14 15:29:09.610428
+Result: Raihan - TRUE
+81.37
+end :2020-10-14 15:29:09.657307
+start time : 2020-10-14 15:29:09.782305
+Result: Raihan - TRUE
+79.41
+end :2020-10-14 15:29:09.829182
+start time : 2020-10-14 15:29:09.954184
+Result: Raihan - TRUE
+81.12
+end :2020-10-14 15:29:10.001073
+start time : 2020-10-14 15:29:10.126061
+Result: Raihan - TRUE
+79.8
+end :2020-10-14 15:29:10.172952
+start time : 2020-10-14 15:29:10.297938
+Result: Raihan - TRUE
+81.03
+end :2020-10-14 15:29:10.344827
+start time : 2020-10-14 15:29:10.469815
+Result: Raihan - TRUE
+85.62
+end :2020-10-14 15:29:10.516704
+start time : 2020-10-14 15:29:10.641693
+Result: Raihan - TRUE
+88.89
+end :2020-10-14 15:29:10.688570
+start time : 2020-10-14 15:29:10.813570
+Result: Wildan- FALSE
+86.98
+end :2020-10-14 15:29:10.860447
+start time : 2020-10-14 15:29:10.985448
+Result: Raihan - TRUE
+81.54
+end :2020-10-14 15:29:11.032338
+start time : 2020-10-14 15:29:11.157324
+Result: Wildan- FALSE
+85.55
+end :2020-10-14 15:29:11.204202
+start time : 2020-10-14 15:29:11.329202
+Result: Wildan- FALSE
+82.95
+end :2020-10-14 15:29:11.376093

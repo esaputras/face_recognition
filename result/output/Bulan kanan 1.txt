@@ -1,0 +1,244 @@
+Bulan
+kanan
+5
+start time : 2020-10-13 20:36:25.584320
+start time : 2020-10-13 20:36:35.996253
+Result: Dhifa- FALSE
+82.13
+end :2020-10-13 20:36:36.037656
+start time : 2020-10-13 20:36:36.177755
+Result: Dhifa- FALSE
+90.22
+end :2020-10-13 20:36:36.213780
+start time : 2020-10-13 20:36:36.361884
+Result: Dhifa- FALSE
+85.38
+end :2020-10-13 20:36:36.396654
+start time : 2020-10-13 20:36:36.540755
+Result: Dhifa- FALSE
+95.21
+end :2020-10-13 20:36:36.575782
+start time : 2020-10-13 20:36:36.703871
+Result: Dhifa- FALSE
+99.6
+end :2020-10-13 20:36:36.737897
+start time : 2020-10-13 20:36:36.875994
+Result: Dhifa- FALSE
+101.76
+end :2020-10-13 20:36:36.910018
+start time : 2020-10-13 20:36:37.038110
+Result: Bulan - TRUE
+106.53
+end :2020-10-13 20:36:37.071135
+start time : 2020-10-13 20:36:37.207229
+Result: Bulan - TRUE
+103.18
+end :2020-10-13 20:36:37.242256
+start time : 2020-10-13 20:36:37.385256
+Result: Dhifa- FALSE
+100.79
+end :2020-10-13 20:36:37.419280
+start time : 2020-10-13 20:36:37.562382
+Result: Bulan - TRUE
+99.2
+end :2020-10-13 20:36:37.596407
+start time : 2020-10-13 20:36:37.723497
+Result: Bulan - TRUE
+99.67
+end :2020-10-13 20:36:37.757522
+start time : 2020-10-13 20:36:37.897620
+Result: Dhifa- FALSE
+97.56
+end :2020-10-13 20:36:37.931646
+start time : 2020-10-13 20:36:38.056734
+Result: Dhifa- FALSE
+95.54
+end :2020-10-13 20:36:38.091758
+start time : 2020-10-13 20:36:38.223853
+Result: Dhifa- FALSE
+91.84
+end :2020-10-13 20:36:38.258879
+start time : 2020-10-13 20:36:38.387969
+Result: Dhifa- FALSE
+88.71
+end :2020-10-13 20:36:38.421995
+start time : 2020-10-13 20:36:38.564094
+Result: Dhifa- FALSE
+89.67
+end :2020-10-13 20:36:38.599121
+start time : 2020-10-13 20:36:38.729212
+Result: Dhifa- FALSE
+88.64
+end :2020-10-13 20:36:38.764238
+start time : 2020-10-13 20:36:38.901334
+Result: Dhifa- FALSE
+93.89
+end :2020-10-13 20:36:38.936361
+start time : 2020-10-13 20:36:39.065451
+Result: Dhifa- FALSE
+82.13
+end :2020-10-13 20:36:39.099477
+start time : 2020-10-13 20:36:39.236573
+Result: Dhifa- FALSE
+81.95
+end :2020-10-13 20:36:39.270598
+start time : 2020-10-13 20:36:39.409695
+Result: Dhifa- FALSE
+83.55
+end :2020-10-13 20:36:39.443721
+start time : 2020-10-13 20:36:39.569809
+Result: Dhifa- FALSE
+93.55
+end :2020-10-13 20:36:39.603836
+start time : 2020-10-13 20:36:39.747937
+Result: Dhifa- FALSE
+83.01
+end :2020-10-13 20:36:39.781964
+start time : 2020-10-13 20:36:39.909051
+Result: Dhifa- FALSE
+82.13
+end :2020-10-13 20:36:39.943077
+start time : 2020-10-13 20:36:40.071166
+Result: Dhifa- FALSE
+96.14
+end :2020-10-13 20:36:40.106193
+start time : 2020-10-13 20:36:40.248292
+Result: Dhifa- FALSE
+93.55
+end :2020-10-13 20:36:40.284319
+start time : 2020-10-13 20:36:40.421907
+Result: Dhifa- FALSE
+91.87
+end :2020-10-13 20:36:40.455933
+start time : 2020-10-13 20:36:40.582020
+Result: Dhifa- FALSE
+96.39
+end :2020-10-13 20:36:40.616044
+start time : 2020-10-13 20:36:40.753143
+Result: Dhifa- FALSE
+102.66
+end :2020-10-13 20:36:40.788169
+start time : 2020-10-13 20:36:40.918260
+Result: Endang- FALSE
+104.44
+end :2020-10-13 20:36:40.953286
+start time : 2020-10-13 20:36:41.091383
+Result: Dhifa- FALSE
+100.62
+end :2020-10-13 20:36:41.125409
+start time : 2020-10-13 20:36:41.256500
+Result: Dhifa- FALSE
+99.2
+end :2020-10-13 20:36:41.289525
+start time : 2020-10-13 20:36:41.430624
+Result: Dhifa- FALSE
+96.57
+end :2020-10-13 20:36:41.464648
+start time : 2020-10-13 20:36:41.604749
+Result: Dhifa- FALSE
+99.19
+end :2020-10-13 20:36:41.638774
+start time : 2020-10-13 20:36:41.781874
+Result: Dhifa- FALSE
+96.09
+end :2020-10-13 20:36:41.816900
+start time : 2020-10-13 20:36:41.953997
+Result: Dhifa- FALSE
+93.1
+end :2020-10-13 20:36:41.988022
+start time : 2020-10-13 20:36:42.120115
+Result: Dhifa- FALSE
+86.82
+end :2020-10-13 20:36:42.156142
+start time : 2020-10-13 20:36:42.284235
+Result: Dhifa- FALSE
+88.97
+end :2020-10-13 20:36:42.331133
+start time : 2020-10-13 20:36:42.458249
+Result: Dhifa- FALSE
+85.25
+end :2020-10-13 20:36:42.493275
+start time : 2020-10-13 20:36:42.634374
+Result: Dhifa- FALSE
+92.74
+end :2020-10-13 20:36:42.669400
+start time : 2020-10-13 20:36:42.794490
+Result: Dhifa- FALSE
+100.82
+end :2020-10-13 20:36:42.841367
+start time : 2020-10-13 20:36:42.966366
+Result: Dhifa- FALSE
+81.17
+end :2020-10-13 20:36:43.013243
+start time : 2020-10-13 20:36:43.138245
+Result: Dhifa- FALSE
+92.06
+end :2020-10-13 20:36:43.185122
+start time : 2020-10-13 20:36:43.310122
+Result: Dhifa- FALSE
+92.34
+end :2020-10-13 20:36:43.357000
+start time : 2020-10-13 20:36:43.489633
+Result: Dhifa- FALSE
+93.27
+end :2020-10-13 20:36:43.523658
+start time : 2020-10-13 20:36:43.654751
+Result: Dhifa- FALSE
+84.59
+end :2020-10-13 20:36:43.688776
+start time : 2020-10-13 20:36:43.813864
+Result: Dhifa- FALSE
+94.58
+end :2020-10-13 20:36:43.847889
+start time : 2020-10-13 20:36:43.977980
+Result: Dhifa- FALSE
+93.44
+end :2020-10-13 20:36:44.012007
+start time : 2020-10-13 20:36:44.154106
+Result: Dhifa- FALSE
+92.71
+end :2020-10-13 20:36:44.189132
+start time : 2020-10-13 20:36:44.330231
+Result: Dhifa- FALSE
+96.08
+end :2020-10-13 20:36:44.364257
+start time : 2020-10-13 20:36:44.505563
+Result: Dhifa- FALSE
+97.77
+end :2020-10-13 20:36:44.539590
+start time : 2020-10-13 20:36:44.680687
+Result: Dhifa- FALSE
+99.41
+end :2020-10-13 20:36:44.714712
+start time : 2020-10-13 20:36:44.854811
+Result: Dhifa- FALSE
+99.53
+end :2020-10-13 20:36:44.888836
+start time : 2020-10-13 20:36:45.032937
+Result: Dhifa- FALSE
+100.71
+end :2020-10-13 20:36:45.066965
+start time : 2020-10-13 20:36:45.208062
+Result: Dhifa- FALSE
+100.25
+end :2020-10-13 20:36:45.242087
+start time : 2020-10-13 20:36:45.374181
+Result: Dhifa- FALSE
+96.11
+end :2020-10-13 20:36:45.409206
+start time : 2020-10-13 20:36:45.540299
+Result: Dhifa- FALSE
+88.19
+end :2020-10-13 20:36:45.574324
+start time : 2020-10-13 20:36:45.712421
+Result: Bunga- FALSE
+87.88
+end :2020-10-13 20:36:45.748448
+start time : 2020-10-13 20:36:45.890547
+Result: Dhifa- FALSE
+92.33
+end :2020-10-13 20:36:45.924573
+start time : 2020-10-13 20:36:46.069675
+Result: Dhifa- FALSE
+91.95
+end :2020-10-13 20:36:46.103738

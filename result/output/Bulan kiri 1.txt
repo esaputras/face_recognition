@@ -1,0 +1,240 @@
+Bulan
+kiri
+5
+start time : 2020-10-13 20:35:05.355748
+start time : 2020-10-13 20:35:15.791368
+Result: Dhifa- FALSE
+88.28
+end :2020-10-13 20:35:15.834937
+start time : 2020-10-13 20:35:15.970979
+Result: Dhifa- FALSE
+93.25
+end :2020-10-13 20:35:16.008008
+start time : 2020-10-13 20:35:16.155111
+Result: Dhifa- FALSE
+91.09
+end :2020-10-13 20:35:16.190137
+start time : 2020-10-13 20:35:16.320228
+Result: Dhifa- FALSE
+90.49
+end :2020-10-13 20:35:16.356255
+start time : 2020-10-13 20:35:16.504359
+Result: Dhifa- FALSE
+93.07
+end :2020-10-13 20:35:16.538385
+start time : 2020-10-13 20:35:16.673479
+Result: Dhifa- FALSE
+92.48
+end :2020-10-13 20:35:16.707505
+start time : 2020-10-13 20:35:16.846603
+Result: Dhifa- FALSE
+98.49
+end :2020-10-13 20:35:16.880628
+start time : 2020-10-13 20:35:17.019727
+Result: Dhifa- FALSE
+89.6
+end :2020-10-13 20:35:17.052751
+start time : 2020-10-13 20:35:17.199854
+Result: Dhifa- FALSE
+93.15
+end :2020-10-13 20:35:17.232879
+start time : 2020-10-13 20:35:17.375550
+Result: Dhifa- FALSE
+91.43
+end :2020-10-13 20:35:17.422466
+start time : 2020-10-13 20:35:17.548538
+Result: Dhifa- FALSE
+91.49
+end :2020-10-13 20:35:17.595415
+start time : 2020-10-13 20:35:17.720415
+Result: Dhifa- FALSE
+92.87
+end :2020-10-13 20:35:17.767306
+start time : 2020-10-13 20:35:17.892293
+Result: Dhifa- FALSE
+95.78
+end :2020-10-13 20:35:17.939170
+start time : 2020-10-13 20:35:18.064170
+Result: Dhifa- FALSE
+86.84
+end :2020-10-13 20:35:18.111049
+start time : 2020-10-13 20:35:18.236048
+Result: Bunga- FALSE
+85.62
+end :2020-10-13 20:35:18.282925
+start time : 2020-10-13 20:35:18.412729
+Result: Bunga- FALSE
+93.54
+end :2020-10-13 20:35:18.448755
+start time : 2020-10-13 20:35:18.579848
+Result: Dhifa- FALSE
+80.15
+end :2020-10-13 20:35:18.613873
+start time : 2020-10-13 20:35:18.743964
+Result: Dhifa- FALSE
+84.86
+end :2020-10-13 20:35:18.777990
+start time : 2020-10-13 20:35:18.907080
+Result: Dhifa- FALSE
+79.09
+end :2020-10-13 20:35:18.942107
+start time : 2020-10-13 20:35:19.075200
+Result: Dhifa- FALSE
+82.76
+end :2020-10-13 20:35:19.110226
+start time : 2020-10-13 20:35:19.236314
+Result: Dhifa- FALSE
+79.46
+end :2020-10-13 20:35:19.270340
+start time : 2020-10-13 20:35:19.404435
+Result: Dhifa- FALSE
+80.33
+end :2020-10-13 20:35:19.438460
+start time : 2020-10-13 20:35:19.575556
+Result: Dhifa- FALSE
+79.45
+end :2020-10-13 20:35:19.609582
+start time : 2020-10-13 20:35:19.742674
+Result: Dhifa- FALSE
+88.75
+end :2020-10-13 20:35:19.777701
+start time : 2020-10-13 20:35:19.916799
+Result: Bunga- FALSE
+83.65
+end :2020-10-13 20:35:19.950824
+start time : 2020-10-13 20:35:20.079915
+Result: Bunga- FALSE
+85.0
+end :2020-10-13 20:35:20.113940
+start time : 2020-10-13 20:35:20.254039
+Result: Dhifa- FALSE
+86.94
+end :2020-10-13 20:35:20.289067
+start time : 2020-10-13 20:35:20.415633
+Result: Dhifa- FALSE
+87.43
+end :2020-10-13 20:35:20.462511
+start time : 2020-10-13 20:35:20.587510
+Result: Dhifa- FALSE
+94.33
+end :2020-10-13 20:35:20.634388
+start time : 2020-10-13 20:35:20.759388
+Result: Dhifa- FALSE
+95.05
+end :2020-10-13 20:35:20.806265
+start time : 2020-10-13 20:35:20.931265
+Result: Dhifa- FALSE
+98.1
+end :2020-10-13 20:35:20.978143
+start time : 2020-10-13 20:35:21.103142
+Result: Dhifa- FALSE
+97.32
+end :2020-10-13 20:35:21.150020
+start time : 2020-10-13 20:35:21.275019
+Result: Dhifa- FALSE
+95.31
+end :2020-10-13 20:35:21.321898
+start time : 2020-10-13 20:35:21.456719
+Result: Dhifa- FALSE
+98.46
+end :2020-10-13 20:35:21.490740
+start time : 2020-10-13 20:35:21.625835
+Result: Dhifa- FALSE
+94.79
+end :2020-10-13 20:35:21.659861
+start time : 2020-10-13 20:35:21.804963
+Result: Bulan - TRUE
+94.39
+end :2020-10-13 20:35:21.838988
+start time : 2020-10-13 20:35:21.985090
+Result: Dhifa- FALSE
+92.72
+end :2020-10-13 20:35:22.019116
+start time : 2020-10-13 20:35:22.160215
+Result: Dhifa- FALSE
+82.64
+end :2020-10-13 20:35:22.195241
+start time : 2020-10-13 20:35:22.332337
+Result: Bunga- FALSE
+89.12
+end :2020-10-13 20:35:22.367364
+start time : 2020-10-13 20:35:22.502458
+Result: Dhifa- FALSE
+82.83
+end :2020-10-13 20:35:22.537485
+start time : 2020-10-13 20:35:22.679584
+Result: Bunga- FALSE
+93.71
+end :2020-10-13 20:35:22.713610
+start time : 2020-10-13 20:35:22.848705
+Result: Dhifa- FALSE
+81.92
+end :2020-10-13 20:35:22.883731
+start time : 2020-10-13 20:35:23.012822
+Result: Bunga- FALSE
+80.82
+end :2020-10-13 20:35:23.046847
+start time : 2020-10-13 20:35:23.181943
+Result: Dhifa- FALSE
+72.66
+end :2020-10-13 20:35:23.215967
+start time : 2020-10-13 20:35:23.356066
+Result: Dhifa- FALSE
+81.65
+end :2020-10-13 20:35:23.391232
+start time : 2020-10-13 20:35:23.516234
+Result: Dhifa- FALSE
+77.58
+end :2020-10-13 20:35:23.563109
+start time : 2020-10-13 20:35:23.688109
+Result: Bunga- FALSE
+86.9
+end :2020-10-13 20:35:23.734986
+start time : 2020-10-13 20:35:23.859989
+Result: Dhifa- FALSE
+80.15
+end :2020-10-13 20:35:23.906865
+start time : 2020-10-13 20:35:24.031867
+Result: Dhifa- FALSE
+81.66
+end :2020-10-13 20:35:24.078743
+start time : 2020-10-13 20:35:24.203742
+Result: Dhifa- FALSE
+84.21
+end :2020-10-13 20:35:24.250620
+start time : 2020-10-13 20:35:24.384091
+Result: Dhifa- FALSE
+87.72
+end :2020-10-13 20:35:24.418117
+start time : 2020-10-13 20:35:24.561218
+Result: Dhifa- FALSE
+101.63
+end :2020-10-13 20:35:24.595243
+start time : 2020-10-13 20:35:24.740344
+Result: Dhifa- FALSE
+102.65
+end :2020-10-13 20:35:24.773370
+start time : 2020-10-13 20:35:24.911466
+Result: Dhifa- FALSE
+98.25
+end :2020-10-13 20:35:24.945492
+start time : 2020-10-13 20:35:25.080586
+Result: Dhifa- FALSE
+96.82
+end :2020-10-13 20:35:25.113612
+start time : 2020-10-13 20:35:25.250709
+Result: Dhifa- FALSE
+95.12
+end :2020-10-13 20:35:25.283733
+start time : 2020-10-13 20:35:25.428835
+Result: Dhifa- FALSE
+99.77
+end :2020-10-13 20:35:25.461860
+start time : 2020-10-13 20:35:25.605960
+Result: Dhifa- FALSE
+90.47
+end :2020-10-13 20:35:25.639986
+start time : 2020-10-13 20:35:25.784087
+Result: Dhifa- FALSE
+91.8
+end :2020-10-13 20:35:25.817112

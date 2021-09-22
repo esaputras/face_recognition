@@ -1,0 +1,424 @@
+Wildan
+9
+
+start time : 2020-10-14 13:24:30.268402
+start time : 2020-10-14 13:24:49.858357
+Result: Raihan - false
+95.73
+end :2020-10-14 13:24:49.920913
+start time : 2020-10-14 13:24:49.983376
+Result: Esa - false
+102.89
+end :2020-10-14 13:24:50.030289
+start time : 2020-10-14 13:24:50.092734
+Result: Raihan - false
+104.6
+end :2020-10-14 13:24:50.139665
+start time : 2020-10-14 13:24:50.202130
+Result: Esa - false
+108.91
+end :2020-10-14 13:24:50.249007
+start time : 2020-10-14 13:24:50.295863
+Result: Esa - false
+105.95
+end :2020-10-14 13:24:50.342775
+start time : 2020-10-14 13:24:50.389615
+Result: Esa - false
+104.69
+end :2020-10-14 13:24:50.436544
+start time : 2020-10-14 13:24:50.483365
+Result: Esa - false
+101.81
+end :2020-10-14 13:24:50.530280
+start time : 2020-10-14 13:24:50.577117
+Result: Raihan - false
+100.27
+end :2020-10-14 13:24:50.624032
+start time : 2020-10-14 13:24:50.670868
+Result: Raihan - false
+95.83
+end :2020-10-14 13:24:50.717785
+start time : 2020-10-14 13:24:50.764620
+Result: Raihan - false
+96.38
+end :2020-10-14 13:24:50.811534
+start time : 2020-10-14 13:24:50.858371
+Result: Raihan - false
+98.11
+end :2020-10-14 13:24:50.905285
+start time : 2020-10-14 13:24:50.967750
+Result: Bulan - false
+102.8
+end :2020-10-14 13:24:50.999013
+start time : 2020-10-14 13:24:51.045873
+Result: Satria - false
+103.68
+end :2020-10-14 13:24:51.092787
+start time : 2020-10-14 13:24:51.139625
+Result: Raihan - false
+104.14
+end :2020-10-14 13:24:51.186554
+start time : 2020-10-14 13:24:51.233376
+Result: Wildan - TRUE
+105.32
+end :2020-10-14 13:24:51.280305
+start time : 2020-10-14 13:24:51.327128
+Result: Wildan - TRUE
+99.7
+end :2020-10-14 13:24:51.374057
+start time : 2020-10-14 13:24:51.420878
+Result: Wildan - TRUE
+99.96
+end :2020-10-14 13:24:51.467767
+start time : 2020-10-14 13:24:51.514630
+Result: Wildan - TRUE
+102.74
+end :2020-10-14 13:24:51.561519
+start time : 2020-10-14 13:24:51.608382
+Result: Wildan - TRUE
+104.64
+end :2020-10-14 13:24:51.655259
+start time : 2020-10-14 13:24:51.702132
+Result: Wildan - TRUE
+100.45
+end :2020-10-14 13:24:51.749062
+start time : 2020-10-14 13:24:51.795885
+Result: Raihan - false
+104.28
+end :2020-10-14 13:24:51.842814
+start time : 2020-10-14 13:24:51.889635
+Result: Raihan - false
+105.3
+end :2020-10-14 13:24:51.936512
+start time : 2020-10-14 13:24:52.014637
+Result: Raihan - false
+105.38
+end :2020-10-14 13:24:52.061514
+start time : 2020-10-14 13:24:52.108388
+Result: Wildan - TRUE
+102.85
+end :2020-10-14 13:24:52.155265
+start time : 2020-10-14 13:24:52.202140
+Result: Raihan - false
+101.72
+end :2020-10-14 13:24:52.249069
+start time : 2020-10-14 13:24:52.295891
+Result: Wildan - TRUE
+105.63
+end :2020-10-14 13:24:52.342805
+start time : 2020-10-14 13:24:52.389642
+Result: Wildan - TRUE
+99.71
+end :2020-10-14 13:24:52.436534
+start time : 2020-10-14 13:24:52.483393
+Result: Wildan - TRUE
+98.03
+end :2020-10-14 13:24:52.530270
+start time : 2020-10-14 13:24:52.608395
+Result: Wildan - TRUE
+106.18
+end :2020-10-14 13:24:52.655285
+start time : 2020-10-14 13:24:52.702146
+Result: Raihan - false
+96.95
+end :2020-10-14 13:24:52.749037
+start time : 2020-10-14 13:24:52.795898
+Result: Raihan - false
+93.08
+end :2020-10-14 13:24:52.842812
+start time : 2020-10-14 13:24:52.889649
+Result: Raihan - false
+95.81
+end :2020-10-14 13:24:52.936563
+start time : 2020-10-14 13:24:52.983400
+Result: Wildan - TRUE
+92.35
+end :2020-10-14 13:24:53.030314
+start time : 2020-10-14 13:24:53.077152
+Result: Raihan - false
+98.05
+end :2020-10-14 13:24:53.124027
+start time : 2020-10-14 13:24:53.170903
+Result: Wildan - TRUE
+99.48
+end :2020-10-14 13:24:53.217833
+start time : 2020-10-14 13:24:53.264654
+Result: Satria - false
+106.08
+end :2020-10-14 13:24:53.311584
+start time : 2020-10-14 13:24:53.358406
+Result: Raihan - false
+107.41
+end :2020-10-14 13:24:53.405335
+start time : 2020-10-14 13:24:53.483407
+Result: Esa - false
+106.66
+end :2020-10-14 13:24:53.530337
+start time : 2020-10-14 13:24:53.577159
+Result: Esa - false
+107.74
+end :2020-10-14 13:24:53.624088
+start time : 2020-10-14 13:24:53.670910
+Result: Esa - false
+104.0
+end :2020-10-14 13:24:53.717839
+start time : 2020-10-14 13:24:53.764661
+Result: Esa - false
+102.33
+end :2020-10-14 13:24:53.811567
+start time : 2020-10-14 13:24:53.858412
+Result: Esa - false
+103.42
+end :2020-10-14 13:24:53.905341
+start time : 2020-10-14 13:24:53.952164
+Result: Wildan - TRUE
+100.38
+end :2020-10-14 13:24:53.999094
+start time : 2020-10-14 13:24:54.045915
+Result: Wildan - TRUE
+95.76
+end :2020-10-14 13:24:54.092844
+start time : 2020-10-14 13:24:54.155295
+Result: Raihan - false
+95.52
+end :2020-10-14 13:24:54.186595
+start time : 2020-10-14 13:24:54.233418
+Result: Raihan - false
+94.18
+end :2020-10-14 13:24:54.280347
+start time : 2020-10-14 13:24:54.327169
+Result: Raihan - false
+100.6
+end :2020-10-14 13:24:54.374098
+start time : 2020-10-14 13:24:54.420920
+Result: Raihan - false
+101.19
+end :2020-10-14 13:24:54.467815
+start time : 2020-10-14 13:24:54.514671
+Result: Raihan - false
+108.05
+end :2020-10-14 13:24:54.561582
+start time : 2020-10-14 13:24:54.608423
+Result: Satria - false
+105.35
+end :2020-10-14 13:24:54.655352
+start time : 2020-10-14 13:24:54.702174
+Result: Satria - false
+107.77
+end :2020-10-14 13:24:54.749103
+start time : 2020-10-14 13:24:54.795926
+Result: Wildan - TRUE
+99.33
+end :2020-10-14 13:24:54.842855
+start time : 2020-10-14 13:24:54.889676
+Result: Wildan - TRUE
+102.76
+end :2020-10-14 13:24:54.936606
+start time : 2020-10-14 13:24:54.983429
+Result: Raihan - false
+105.6
+end :2020-10-14 13:24:55.030358
+start time : 2020-10-14 13:24:55.077179
+Result: Wildan - TRUE
+103.48
+end :2020-10-14 13:24:55.124055
+start time : 2020-10-14 13:24:55.170930
+Result: Satria - false
+106.39
+end :2020-10-14 13:24:55.217860
+start time : 2020-10-14 13:24:55.264683
+Result: Raihan - false
+104.45
+end :2020-10-14 13:24:55.311612
+start time : 2020-10-14 13:24:55.374078
+Result: Raihan - false
+103.4
+end :2020-10-14 13:24:55.405331
+start time : 2020-10-14 13:24:55.467829
+Result: Wildan - TRUE
+99.01
+end :2020-10-14 13:24:55.514739
+start time : 2020-10-14 13:24:55.561561
+Result: Wildan - TRUE
+103.56
+end :2020-10-14 13:24:55.608491
+start time : 2020-10-14 13:24:55.655312
+Result: Satria - false
+102.79
+end :2020-10-14 13:24:55.702242
+start time : 2020-10-14 13:24:55.749064
+Result: Wildan - TRUE
+102.23
+end :2020-10-14 13:24:55.795941
+start time : 2020-10-14 13:24:55.842815
+Result: Wildan - TRUE
+104.35
+end :2020-10-14 13:24:55.889746
+start time : 2020-10-14 13:24:55.936566
+Result: Satria - false
+106.87
+end :2020-10-14 13:24:55.983495
+start time : 2020-10-14 13:24:56.030318
+Result: Raihan - false
+100.43
+end :2020-10-14 13:24:56.077247
+start time : 2020-10-14 13:24:56.124069
+Result: Raihan - false
+95.89
+end :2020-10-14 13:24:56.171000
+start time : 2020-10-14 13:24:56.217820
+Result: Raihan - false
+99.25
+end :2020-10-14 13:24:56.264750
+start time : 2020-10-14 13:24:56.311571
+Result: Wildan - TRUE
+95.86
+end :2020-10-14 13:24:56.358501
+start time : 2020-10-14 13:24:56.405322
+Result: Raihan - false
+104.6
+end :2020-10-14 13:24:56.452216
+start time : 2020-10-14 13:24:56.499074
+Result: Raihan - false
+104.15
+end :2020-10-14 13:24:56.546003
+start time : 2020-10-14 13:24:56.592825
+Result: Raihan - false
+107.26
+end :2020-10-14 13:24:56.639755
+start time : 2020-10-14 13:24:56.686576
+Result: Esa - false
+106.38
+end :2020-10-14 13:24:56.733491
+start time : 2020-10-14 13:24:56.780328
+Result: Esa - false
+109.67
+end :2020-10-14 13:24:56.827242
+start time : 2020-10-14 13:24:56.874079
+Result: Raihan - false
+105.84
+end :2020-10-14 13:24:56.920995
+start time : 2020-10-14 13:24:56.967831
+Result: Raihan - false
+107.47
+end :2020-10-14 13:24:57.014745
+start time : 2020-10-14 13:24:57.061582
+Result: unknown - false
+114.53
+end :2020-10-14 13:24:57.108460
+start time : 2020-10-14 13:24:57.155333
+Result: Esa - false
+107.25
+end :2020-10-14 13:24:57.202247
+start time : 2020-10-14 13:24:57.249086
+Result: Esa - false
+105.79
+end :2020-10-14 13:24:57.296000
+start time : 2020-10-14 13:24:57.342836
+Result: Raihan - false
+104.6
+end :2020-10-14 13:24:57.389765
+start time : 2020-10-14 13:24:57.436587
+Result: Esa - false
+105.07
+end :2020-10-14 13:24:57.483501
+start time : 2020-10-14 13:24:57.561591
+Result: Raihan - false
+99.39
+end :2020-10-14 13:24:57.608482
+start time : 2020-10-14 13:24:57.655340
+Result: Raihan - false
+100.52
+end :2020-10-14 13:24:57.702217
+start time : 2020-10-14 13:24:57.749091
+Result: Wildan - TRUE
+93.8
+end :2020-10-14 13:24:57.795984
+start time : 2020-10-14 13:24:57.842843
+Result: Raihan - false
+93.85
+end :2020-10-14 13:24:57.889757
+start time : 2020-10-14 13:24:57.936594
+Result: Raihan - false
+95.06
+end :2020-10-14 13:24:57.983509
+start time : 2020-10-14 13:24:58.030345
+Result: Raihan - false
+101.62
+end :2020-10-14 13:24:58.077260
+start time : 2020-10-14 13:24:58.124097
+Result: Bulan - false
+101.8
+end :2020-10-14 13:24:58.171011
+start time : 2020-10-14 13:24:58.249102
+Result: Raihan - false
+100.94
+end :2020-10-14 13:24:58.296012
+start time : 2020-10-14 13:24:58.342849
+Result: Raihan - false
+98.6
+end :2020-10-14 13:24:58.389725
+start time : 2020-10-14 13:24:58.467869
+Result: Satria - false
+105.94
+end :2020-10-14 13:24:58.514767
+start time : 2020-10-14 13:24:58.561602
+Result: Wildan - TRUE
+101.08
+end :2020-10-14 13:24:58.608532
+start time : 2020-10-14 13:24:58.655355
+Result: Wildan - TRUE
+99.28
+end :2020-10-14 13:24:58.702284
+start time : 2020-10-14 13:24:58.749106
+Result: Wildan - TRUE
+96.96
+end :2020-10-14 13:24:58.796035
+start time : 2020-10-14 13:24:58.842856
+Result: Wildan - TRUE
+102.15
+end :2020-10-14 13:24:58.889734
+start time : 2020-10-14 13:24:58.936608
+Result: Raihan - false
+105.15
+end :2020-10-14 13:24:58.983537
+start time : 2020-10-14 13:24:59.030362
+Result: Wildan - TRUE
+98.97
+end :2020-10-14 13:24:59.077289
+start time : 2020-10-14 13:24:59.124110
+Result: Wildan - TRUE
+99.67
+end :2020-10-14 13:24:59.171041
+start time : 2020-10-14 13:24:59.217861
+Result: Wildan - TRUE
+100.72
+end :2020-10-14 13:24:59.264792
+start time : 2020-10-14 13:24:59.311615
+Result: Wildan - TRUE
+100.82
+end :2020-10-14 13:24:59.358543
+start time : 2020-10-14 13:24:59.405365
+Result: Satria - false
+104.56
+end :2020-10-14 13:24:59.452294
+start time : 2020-10-14 13:24:59.499116
+Result: Wildan - TRUE
+98.15
+end :2020-10-14 13:24:59.546046
+start time : 2020-10-14 13:24:59.592867
+Result: Wildan - TRUE
+104.66
+end :2020-10-14 13:24:59.639796
+start time : 2020-10-14 13:24:59.686618
+Result: Satria - false
+104.82
+end :2020-10-14 13:24:59.733548
+start time : 2020-10-14 13:24:59.780370
+Result: Wildan - TRUE
+99.25
+end :2020-10-14 13:24:59.827300
+start time : 2020-10-14 13:24:59.874121
+Result: Raihan - false
+97.74
+end :2020-10-14 13:24:59.920998

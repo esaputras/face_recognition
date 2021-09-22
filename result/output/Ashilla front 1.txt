@@ -1,0 +1,438 @@
+Ashilla
+8
+
+start time : 2020-10-14 15:18:52.430306
+start time : 2020-10-14 15:19:27.791823
+Result: Bunga - false
+103.41
+end :2020-10-14 15:19:27.855460
+start time : 2020-10-14 15:19:27.903394
+Result: Bunga - false
+108.05
+end :2020-10-14 15:19:27.965924
+start time : 2020-10-14 15:19:28.028395
+Result: unknown - false
+123.71
+end :2020-10-14 15:19:28.075310
+start time : 2020-10-14 15:19:28.122146
+Result: Bunga - false
+109.68
+end :2020-10-14 15:19:28.169061
+start time : 2020-10-14 15:19:28.230992
+Result: unknown - false
+114.69
+end :2020-10-14 15:19:28.262035
+start time : 2020-10-14 15:19:28.322079
+Result: unknown - false
+115.08
+end :2020-10-14 15:19:28.355103
+start time : 2020-10-14 15:19:28.417145
+Result: unknown - false
+113.23
+end :2020-10-14 15:19:28.450170
+start time : 2020-10-14 15:19:28.508211
+Result: Ashilla - TRUE
+106.64
+end :2020-10-14 15:19:28.540234
+start time : 2020-10-14 15:19:28.604278
+Result: Bunga - false
+106.59
+end :2020-10-14 15:19:28.638304
+start time : 2020-10-14 15:19:28.700347
+Result: Bunga - false
+105.01
+end :2020-10-14 15:19:28.731369
+start time : 2020-10-14 15:19:28.789410
+Result: Bunga - false
+101.79
+end :2020-10-14 15:19:28.822435
+start time : 2020-10-14 15:19:28.879474
+Result: Ashilla - TRUE
+96.22
+end :2020-10-14 15:19:28.913500
+start time : 2020-10-14 15:19:28.972540
+Result: Ashilla - TRUE
+98.82
+end :2020-10-14 15:19:29.004564
+start time : 2020-10-14 15:19:29.068608
+Result: Ashilla - TRUE
+102.63
+end :2020-10-14 15:19:29.099630
+start time : 2020-10-14 15:19:29.160674
+Result: Ashilla - TRUE
+103.88
+end :2020-10-14 15:19:29.193699
+start time : 2020-10-14 15:19:29.250106
+Result: Bunga - false
+100.82
+end :2020-10-14 15:19:29.296985
+start time : 2020-10-14 15:19:29.343860
+Result: Bulan - false
+100.83
+end :2020-10-14 15:19:29.390737
+start time : 2020-10-14 15:19:29.437610
+Result: Bulan - false
+106.08
+end :2020-10-14 15:19:29.484500
+start time : 2020-10-14 15:19:29.531361
+Result: Bulan - false
+105.51
+end :2020-10-14 15:19:29.578237
+start time : 2020-10-14 15:19:29.640740
+Result: Ashilla - TRUE
+101.81
+end :2020-10-14 15:19:29.672002
+start time : 2020-10-14 15:19:29.718864
+Result: Ashilla - TRUE
+103.9
+end :2020-10-14 15:19:29.765740
+start time : 2020-10-14 15:19:29.812616
+Result: Ashilla - TRUE
+95.35
+end :2020-10-14 15:19:29.861761
+start time : 2020-10-14 15:19:29.908635
+Result: unknown - TRUE
+111.77
+end :2020-10-14 15:19:29.955510
+start time : 2020-10-14 15:19:30.002386
+Result: Ashilla - TRUE
+105.73
+end :2020-10-14 15:19:30.049263
+start time : 2020-10-14 15:19:30.096137
+Result: Ashilla - TRUE
+96.1
+end :2020-10-14 15:19:30.143015
+start time : 2020-10-14 15:19:30.189889
+Result: Ashilla - TRUE
+93.48
+end :2020-10-14 15:19:30.230430
+start time : 2020-10-14 15:19:30.284469
+Result: Ashilla - TRUE
+108.22
+end :2020-10-14 15:19:30.315491
+start time : 2020-10-14 15:19:30.373531
+Result: Ashilla - TRUE
+108.5
+end :2020-10-14 15:19:30.407557
+start time : 2020-10-14 15:19:30.462594
+end :2020-10-14 15:19:30.462594
+start time : 2020-10-14 15:19:30.518634
+end :2020-10-14 15:19:30.518634
+start time : 2020-10-14 15:19:30.572673
+end :2020-10-14 15:19:30.572673
+start time : 2020-10-14 15:19:30.625711
+end :2020-10-14 15:19:30.625711
+start time : 2020-10-14 15:19:30.679749
+end :2020-10-14 15:19:30.679749
+start time : 2020-10-14 15:19:30.734789
+Result: Ashilla - TRUE
+105.33
+end :2020-10-14 15:19:30.765812
+start time : 2020-10-14 15:19:30.819849
+end :2020-10-14 15:19:30.819849
+start time : 2020-10-14 15:19:30.871885
+Result: Ashilla - TRUE
+107.85
+end :2020-10-14 15:19:30.903910
+start time : 2020-10-14 15:19:30.957948
+Result: Ashilla - TRUE
+99.07
+end :2020-10-14 15:19:30.988970
+start time : 2020-10-14 15:19:31.043008
+Result: Ashilla - TRUE
+97.23
+end :2020-10-14 15:19:31.075032
+start time : 2020-10-14 15:19:31.131071
+Result: Ashilla - TRUE
+98.51
+end :2020-10-14 15:19:31.163094
+start time : 2020-10-14 15:19:31.218133
+Result: Ashilla - TRUE
+93.04
+end :2020-10-14 15:19:31.249155
+start time : 2020-10-14 15:19:31.305194
+Result: Ashilla - TRUE
+92.25
+end :2020-10-14 15:19:31.336217
+start time : 2020-10-14 15:19:31.395258
+Result: Ashilla - TRUE
+90.47
+end :2020-10-14 15:19:31.427282
+start time : 2020-10-14 15:19:31.482319
+Result: Ashilla - TRUE
+90.01
+end :2020-10-14 15:19:31.514344
+start time : 2020-10-14 15:19:31.572384
+Result: Ashilla - TRUE
+105.7
+end :2020-10-14 15:19:31.605408
+start time : 2020-10-14 15:19:31.662448
+Result: Ashilla - TRUE
+92.68
+end :2020-10-14 15:19:31.694472
+start time : 2020-10-14 15:19:31.751511
+Result: Ashilla - TRUE
+100.45
+end :2020-10-14 15:19:31.782534
+start time : 2020-10-14 15:19:31.838574
+Result: Ashilla - TRUE
+95.47
+end :2020-10-14 15:19:31.869596
+start time : 2020-10-14 15:19:31.925635
+Result: unknown - TRUE
+110.95
+end :2020-10-14 15:19:31.957658
+start time : 2020-10-14 15:19:32.014698
+Result: Bunga - false
+102.83
+end :2020-10-14 15:19:32.046723
+start time : 2020-10-14 15:19:32.101760
+Result: Ashilla - TRUE
+107.4
+end :2020-10-14 15:19:32.132783
+start time : 2020-10-14 15:19:32.188822
+Result: Ashilla - TRUE
+103.06
+end :2020-10-14 15:19:32.227657
+start time : 2020-10-14 15:19:32.274532
+Result: Ashilla - TRUE
+97.2
+end :2020-10-14 15:19:32.321410
+start time : 2020-10-14 15:19:32.382240
+end :2020-10-14 15:19:32.382240
+start time : 2020-10-14 15:19:32.432214
+end :2020-10-14 15:19:32.432214
+start time : 2020-10-14 15:19:32.479089
+Result: Ashilla - TRUE
+93.91
+end :2020-10-14 15:19:32.525966
+start time : 2020-10-14 15:19:32.581478
+Result: Ashilla - TRUE
+100.27
+end :2020-10-14 15:19:32.612728
+start time : 2020-10-14 15:19:32.659602
+Result: Ashilla - TRUE
+106.19
+end :2020-10-14 15:19:32.706479
+start time : 2020-10-14 15:19:32.753353
+Result: unknown - false
+116.08
+end :2020-10-14 15:19:32.800231
+start time : 2020-10-14 15:19:32.847104
+end :2020-10-14 15:19:32.847104
+start time : 2020-10-14 15:19:32.909605
+Result: unknown - false
+119.04
+end :2020-10-14 15:19:32.940869
+start time : 2020-10-14 15:19:32.987732
+Result: Ashilla - TRUE
+102.88
+end :2020-10-14 15:19:33.034608
+start time : 2020-10-14 15:19:33.081483
+Result: unknown - false
+115.41
+end :2020-10-14 15:19:33.128372
+start time : 2020-10-14 15:19:33.175234
+Result: Ashilla - TRUE
+107.69
+end :2020-10-14 15:19:33.222111
+start time : 2020-10-14 15:19:33.277456
+Result: unknown - TRUE
+111.51
+end :2020-10-14 15:19:33.310479
+start time : 2020-10-14 15:19:33.370522
+Result: Ashilla - TRUE
+105.38
+end :2020-10-14 15:19:33.402544
+start time : 2020-10-14 15:19:33.462587
+Result: Ashilla - TRUE
+104.35
+end :2020-10-14 15:19:33.497612
+start time : 2020-10-14 15:19:33.553652
+Result: Ashilla - TRUE
+102.51
+end :2020-10-14 15:19:33.587677
+start time : 2020-10-14 15:19:33.645718
+Result: Ashilla - TRUE
+96.1
+end :2020-10-14 15:19:33.677740
+start time : 2020-10-14 15:19:33.734781
+Result: Ashilla - TRUE
+95.28
+end :2020-10-14 15:19:33.766803
+start time : 2020-10-14 15:19:33.823844
+Result: Ashilla - TRUE
+89.82
+end :2020-10-14 15:19:33.855868
+start time : 2020-10-14 15:19:33.913908
+Result: Ashilla - TRUE
+89.4
+end :2020-10-14 15:19:33.944933
+start time : 2020-10-14 15:19:33.999970
+Result: Ashilla - TRUE
+94.44
+end :2020-10-14 15:19:34.031994
+start time : 2020-10-14 15:19:34.096037
+Result: Ashilla - TRUE
+94.4
+end :2020-10-14 15:19:34.128062
+start time : 2020-10-14 15:19:34.183099
+Result: Ashilla - TRUE
+95.15
+end :2020-10-14 15:19:34.227843
+start time : 2020-10-14 15:19:34.274720
+Result: Ashilla - TRUE
+102.71
+end :2020-10-14 15:19:34.321597
+start time : 2020-10-14 15:19:34.368471
+Result: Ashilla - TRUE
+96.07
+end :2020-10-14 15:19:34.415347
+start time : 2020-10-14 15:19:34.462223
+Result: Ashilla - TRUE
+103.1
+end :2020-10-14 15:19:34.509100
+start time : 2020-10-14 15:19:34.555974
+Result: Ashilla - TRUE
+97.58
+end :2020-10-14 15:19:34.602851
+start time : 2020-10-14 15:19:34.649725
+Result: Ashilla - TRUE
+96.33
+end :2020-10-14 15:19:34.696600
+start time : 2020-10-14 15:19:34.743476
+Result: Ashilla - TRUE
+96.51
+end :2020-10-14 15:19:34.790352
+start time : 2020-10-14 15:19:34.837228
+Result: Ashilla - TRUE
+93.66
+end :2020-10-14 15:19:34.884106
+start time : 2020-10-14 15:19:34.930979
+end :2020-10-14 15:19:34.930979
+start time : 2020-10-14 15:19:34.993479
+Result: Ashilla - TRUE
+100.48
+end :2020-10-14 15:19:35.040385
+start time : 2020-10-14 15:19:35.087231
+Result: Ashilla - TRUE
+100.53
+end :2020-10-14 15:19:35.134120
+start time : 2020-10-14 15:19:35.196608
+Result: Ashilla - TRUE
+91.9
+end :2020-10-14 15:19:35.243486
+start time : 2020-10-14 15:19:35.290358
+Result: Ashilla - TRUE
+92.47
+end :2020-10-14 15:19:35.337236
+start time : 2020-10-14 15:19:35.384110
+Result: Ashilla - TRUE
+102.44
+end :2020-10-14 15:19:35.430988
+start time : 2020-10-14 15:19:35.477861
+Result: Ashilla - TRUE
+93.68
+end :2020-10-14 15:19:35.524738
+start time : 2020-10-14 15:19:35.571612
+Result: Ashilla - TRUE
+90.31
+end :2020-10-14 15:19:35.618490
+start time : 2020-10-14 15:19:35.665364
+Result: Ashilla - TRUE
+96.13
+end :2020-10-14 15:19:35.712240
+start time : 2020-10-14 15:19:35.759115
+Result: Ashilla - TRUE
+93.84
+end :2020-10-14 15:19:35.805993
+start time : 2020-10-14 15:19:35.852868
+Result: unknown - false
+113.63
+end :2020-10-14 15:19:35.899744
+start time : 2020-10-14 15:19:35.946619
+Result: Ashilla - TRUE
+109.02
+end :2020-10-14 15:19:35.993508
+start time : 2020-10-14 15:19:36.040369
+Result: Ashilla - TRUE
+104.78
+end :2020-10-14 15:19:36.087246
+start time : 2020-10-14 15:19:36.134120
+Result: unknown - TRUE
+110.78
+end :2020-10-14 15:19:36.180999
+start time : 2020-10-14 15:19:36.227872
+Result: Ashilla - TRUE
+100.89
+end :2020-10-14 15:19:36.267493
+start time : 2020-10-14 15:19:36.322530
+Result: Ashilla - TRUE
+103.35
+end :2020-10-14 15:19:36.355555
+start time : 2020-10-14 15:19:36.411594
+Result: unknown - false
+110.77
+end :2020-10-14 15:19:36.443618
+start time : 2020-10-14 15:19:36.499658
+Result: Ashilla - TRUE
+100.29
+end :2020-10-14 15:19:36.531679
+start time : 2020-10-14 15:19:36.588720
+Result: Ashilla - TRUE
+98.78
+end :2020-10-14 15:19:36.619743
+start time : 2020-10-14 15:19:36.674782
+Result: unknown - TRUE
+120.95
+end :2020-10-14 15:19:36.706805
+start time : 2020-10-14 15:19:36.761844
+Result: Ashilla - TRUE
+102.51
+end :2020-10-14 15:19:36.792867
+start time : 2020-10-14 15:19:36.847905
+Result: unknown - TRUE
+110.1
+end :2020-10-14 15:19:36.879930
+start time : 2020-10-14 15:19:36.937968
+end :2020-10-14 15:19:36.937968
+start time : 2020-10-14 15:19:36.992007
+Result: Ashilla - TRUE
+91.82
+end :2020-10-14 15:19:37.024031
+start time : 2020-10-14 15:19:37.080071
+Result: Ashilla - TRUE
+96.82
+end :2020-10-14 15:19:37.112093
+start time : 2020-10-14 15:19:37.167132
+Result: Ashilla - TRUE
+109.32
+end :2020-10-14 15:19:37.200155
+start time : 2020-10-14 15:19:37.254866
+Result: Ashilla - TRUE
+101.01
+end :2020-10-14 15:19:37.301746
+start time : 2020-10-14 15:19:37.348619
+Result: Ashilla - TRUE
+96.3
+end :2020-10-14 15:19:37.395496
+start time : 2020-10-14 15:19:37.442371
+Result: Ashilla - TRUE
+103.26
+end :2020-10-14 15:19:37.489249
+start time : 2020-10-14 15:19:37.536123
+Result: Ashilla - TRUE
+85.16
+end :2020-10-14 15:19:37.583000
+start time : 2020-10-14 15:19:37.629874
+Result: Bunga - false
+106.21
+end :2020-10-14 15:19:37.676752
+start time : 2020-10-14 15:19:37.723625
+Result: Ashilla - TRUE
+87.74
+end :2020-10-14 15:19:37.770503
+start time : 2020-10-14 15:19:37.817376
+Result: Ashilla - TRUE
+92.54
+end :2020-10-14 15:19:37.864254

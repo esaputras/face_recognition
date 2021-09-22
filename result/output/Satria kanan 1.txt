@@ -1,0 +1,248 @@
+Satria
+kanan
+7
+start time : 2020-10-14 13:48:07.191318
+start time : 2020-10-14 13:48:10.941316
+Result: Satria - TRUE
+91.97
+end :2020-10-14 13:48:11.003838
+start time : 2020-10-14 13:48:11.128835
+Result: Satria - TRUE
+95.99
+end :2020-10-14 13:48:11.175731
+start time : 2020-10-14 13:48:11.300695
+Result: Endang- FALSE
+93.9
+end :2020-10-14 13:48:11.347609
+start time : 2020-10-14 13:48:11.456946
+Result: Satria - TRUE
+92.06
+end :2020-10-14 13:48:11.519456
+start time : 2020-10-14 13:48:11.628823
+Result: Endang- FALSE
+95.62
+end :2020-10-14 13:48:11.675715
+start time : 2020-10-14 13:48:11.785078
+Result: Endang- FALSE
+94.86
+end :2020-10-14 13:48:11.847593
+start time : 2020-10-14 13:48:11.956953
+end :2020-10-14 13:48:11.956953
+start time : 2020-10-14 13:48:12.081954
+Result: Endang- FALSE
+100.89
+end :2020-10-14 13:48:12.144457
+start time : 2020-10-14 13:48:12.269457
+Result: Satria - TRUE
+99.69
+end :2020-10-14 13:48:12.316335
+start time : 2020-10-14 13:48:12.441334
+Result: Satria - TRUE
+94.95
+end :2020-10-14 13:48:12.488212
+start time : 2020-10-14 13:48:12.597586
+Result: Endang- FALSE
+96.75
+end :2020-10-14 13:48:12.644465
+start time : 2020-10-14 13:48:12.753840
+Result: Endang- FALSE
+95.18
+end :2020-10-14 13:48:12.800722
+start time : 2020-10-14 13:48:12.910092
+Result: Endang- FALSE
+92.05
+end :2020-10-14 13:48:12.956970
+start time : 2020-10-14 13:48:13.081969
+Result: Endang- FALSE
+92.43
+end :2020-10-14 13:48:13.128846
+start time : 2020-10-14 13:48:13.238221
+Result: Endang- FALSE
+93.4
+end :2020-10-14 13:48:13.285099
+start time : 2020-10-14 13:48:13.441349
+Result: Endang- FALSE
+95.09
+end :2020-10-14 13:48:13.488226
+start time : 2020-10-14 13:48:13.613226
+Result: Endang- FALSE
+94.85
+end :2020-10-14 13:48:13.660116
+start time : 2020-10-14 13:48:13.785104
+Result: Endang- FALSE
+94.26
+end :2020-10-14 13:48:13.831980
+start time : 2020-10-14 13:48:13.941355
+Result: Endang- FALSE
+92.84
+end :2020-10-14 13:48:13.988234
+start time : 2020-10-14 13:48:14.097608
+Result: Satria - TRUE
+92.49
+end :2020-10-14 13:48:14.144486
+start time : 2020-10-14 13:48:14.253860
+Result: Hasanah- FALSE
+94.84
+end :2020-10-14 13:48:14.300737
+start time : 2020-10-14 13:48:14.410112
+Result: Hasanah- FALSE
+92.91
+end :2020-10-14 13:48:14.456989
+start time : 2020-10-14 13:48:14.566365
+Result: Hasanah- FALSE
+94.47
+end :2020-10-14 13:48:14.613241
+start time : 2020-10-14 13:48:14.722616
+Result: Satria - TRUE
+92.28
+end :2020-10-14 13:48:14.769494
+start time : 2020-10-14 13:48:14.878868
+Result: Satria - TRUE
+94.17
+end :2020-10-14 13:48:14.925746
+start time : 2020-10-14 13:48:15.035121
+Result: Satria - TRUE
+95.0
+end :2020-10-14 13:48:15.081998
+start time : 2020-10-14 13:48:15.206999
+Result: Endang- FALSE
+94.96
+end :2020-10-14 13:48:15.253876
+start time : 2020-10-14 13:48:15.363251
+Result: Endang- FALSE
+95.12
+end :2020-10-14 13:48:15.410129
+start time : 2020-10-14 13:48:15.535127
+Result: Endang- FALSE
+92.61
+end :2020-10-14 13:48:15.582004
+start time : 2020-10-14 13:48:15.691380
+Result: Satria - TRUE
+92.58
+end :2020-10-14 13:48:15.738257
+start time : 2020-10-14 13:48:15.847631
+Result: Endang- FALSE
+95.07
+end :2020-10-14 13:48:15.957063
+start time : 2020-10-14 13:48:16.097639
+Result: Endang- FALSE
+94.82
+end :2020-10-14 13:48:16.160189
+start time : 2020-10-14 13:48:16.269512
+Result: Endang- FALSE
+96.12
+end :2020-10-14 13:48:16.316443
+start time : 2020-10-14 13:48:16.441408
+Result: Endang- FALSE
+97.44
+end :2020-10-14 13:48:16.488320
+start time : 2020-10-14 13:48:16.613286
+end :2020-10-14 13:48:16.613286
+start time : 2020-10-14 13:48:16.722644
+Result: Satria - TRUE
+98.88
+end :2020-10-14 13:48:16.785147
+start time : 2020-10-14 13:48:16.894522
+Result: Endang- FALSE
+97.41
+end :2020-10-14 13:48:16.941399
+start time : 2020-10-14 13:48:17.050773
+Result: Satria - TRUE
+100.5
+end :2020-10-14 13:48:17.097652
+start time : 2020-10-14 13:48:17.207026
+Result: Endang- FALSE
+94.76
+end :2020-10-14 13:48:17.253904
+start time : 2020-10-14 13:48:17.363278
+Result: Satria - TRUE
+94.53
+end :2020-10-14 13:48:17.410156
+start time : 2020-10-14 13:48:17.519530
+Result: Endang- FALSE
+94.44
+end :2020-10-14 13:48:17.566408
+start time : 2020-10-14 13:48:17.675784
+Result: Endang- FALSE
+91.93
+end :2020-10-14 13:48:17.738284
+start time : 2020-10-14 13:48:17.863285
+Result: Endang- FALSE
+91.21
+end :2020-10-14 13:48:17.910200
+start time : 2020-10-14 13:48:18.035162
+Result: Endang- FALSE
+91.6
+end :2020-10-14 13:48:18.082040
+start time : 2020-10-14 13:48:18.207040
+Result: Satria - TRUE
+95.16
+end :2020-10-14 13:48:18.253931
+start time : 2020-10-14 13:48:18.363292
+Result: Endang- FALSE
+93.72
+end :2020-10-14 13:48:18.410182
+start time : 2020-10-14 13:48:18.519543
+Result: Endang- FALSE
+94.4
+end :2020-10-14 13:48:18.582046
+start time : 2020-10-14 13:48:18.691422
+Result: Endang- FALSE
+94.27
+end :2020-10-14 13:48:18.738299
+start time : 2020-10-14 13:48:18.847673
+Result: Endang- FALSE
+94.46
+end :2020-10-14 13:48:18.894551
+start time : 2020-10-14 13:48:19.003928
+Result: Satria - TRUE
+88.33
+end :2020-10-14 13:48:19.066428
+start time : 2020-10-14 13:48:19.191429
+Result: Hasanah- FALSE
+91.52
+end :2020-10-14 13:48:19.238319
+start time : 2020-10-14 13:48:19.363306
+Result: Satria - TRUE
+87.52
+end :2020-10-14 13:48:19.410184
+start time : 2020-10-14 13:48:19.519558
+Result: Hasanah- FALSE
+92.76
+end :2020-10-14 13:48:19.582062
+start time : 2020-10-14 13:48:19.691436
+Result: Hasanah- FALSE
+91.73
+end :2020-10-14 13:48:19.738313
+start time : 2020-10-14 13:48:19.847687
+Result: Endang- FALSE
+94.41
+end :2020-10-14 13:48:19.894566
+start time : 2020-10-14 13:48:20.003940
+Result: Endang- FALSE
+94.19
+end :2020-10-14 13:48:20.050830
+start time : 2020-10-14 13:48:20.160191
+Result: Satria - TRUE
+94.71
+end :2020-10-14 13:48:20.222694
+start time : 2020-10-14 13:48:20.363320
+Result: Satria - TRUE
+94.68
+end :2020-10-14 13:48:20.410198
+start time : 2020-10-14 13:48:20.519571
+Result: Satria - TRUE
+94.23
+end :2020-10-14 13:48:20.566450
+start time : 2020-10-14 13:48:20.675824
+Result: Satria - TRUE
+93.02
+end :2020-10-14 13:48:20.722714
+start time : 2020-10-14 13:48:20.832075
+Result: Endang- FALSE
+96.0
+end :2020-10-14 13:48:20.878954
+start time : 2020-10-14 13:48:20.988328
+Result: Endang- FALSE
+95.02
+end :2020-10-14 13:48:21.035204

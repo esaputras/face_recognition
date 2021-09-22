@@ -1,0 +1,260 @@
+Wildan
+kiri
+9
+start time : 2020-10-14 13:27:20.761077
+start time : 2020-10-14 13:27:33.448698
+Result: Satria- FALSE
+86.48
+end :2020-10-14 13:27:33.511237
+start time : 2020-10-14 13:27:33.620575
+Result: Satria- FALSE
+86.92
+end :2020-10-14 13:27:33.683114
+start time : 2020-10-14 13:27:33.808077
+Result: Satria- FALSE
+89.15
+end :2020-10-14 13:27:33.854955
+start time : 2020-10-14 13:27:33.964329
+Result: Satria- FALSE
+94.19
+end :2020-10-14 13:27:34.011207
+start time : 2020-10-14 13:27:34.120582
+Result: Satria- FALSE
+91.99
+end :2020-10-14 13:27:34.167459
+start time : 2020-10-14 13:27:34.276834
+Result: Satria- FALSE
+96.38
+end :2020-10-14 13:27:34.323712
+start time : 2020-10-14 13:27:34.433086
+Result: Satria- FALSE
+93.04
+end :2020-10-14 13:27:34.479964
+start time : 2020-10-14 13:27:34.589338
+Result: Satria- FALSE
+91.87
+end :2020-10-14 13:27:34.636217
+start time : 2020-10-14 13:27:34.745590
+Result: Satria- FALSE
+91.89
+end :2020-10-14 13:27:34.792468
+start time : 2020-10-14 13:27:34.901842
+Result: Satria- FALSE
+88.87
+end :2020-10-14 13:27:34.948719
+start time : 2020-10-14 13:27:35.058095
+Result: Satria- FALSE
+90.45
+end :2020-10-14 13:27:35.104984
+start time : 2020-10-14 13:27:35.214347
+Result: Satria- FALSE
+93.38
+end :2020-10-14 13:27:35.261223
+start time : 2020-10-14 13:27:35.370600
+Result: Satria- FALSE
+89.63
+end :2020-10-14 13:27:35.417476
+start time : 2020-10-14 13:27:35.526851
+Result: Satria- FALSE
+93.62
+end :2020-10-14 13:27:35.573729
+start time : 2020-10-14 13:27:35.683103
+Result: Satria- FALSE
+91.99
+end :2020-10-14 13:27:35.729980
+start time : 2020-10-14 13:27:35.839356
+Result: Satria- FALSE
+91.74
+end :2020-10-14 13:27:35.886233
+start time : 2020-10-14 13:27:35.995608
+Result: Satria- FALSE
+92.47
+end :2020-10-14 13:27:36.042486
+start time : 2020-10-14 13:27:36.151859
+Result: Satria- FALSE
+95.73
+end :2020-10-14 13:27:36.198737
+start time : 2020-10-14 13:27:36.308112
+Result: Satria- FALSE
+92.39
+end :2020-10-14 13:27:36.354989
+start time : 2020-10-14 13:27:36.464363
+Result: Satria- FALSE
+90.61
+end :2020-10-14 13:27:36.511242
+start time : 2020-10-14 13:27:36.620616
+Result: Satria- FALSE
+88.22
+end :2020-10-14 13:27:36.667494
+start time : 2020-10-14 13:27:36.776869
+Result: Satria- FALSE
+88.01
+end :2020-10-14 13:27:36.823746
+start time : 2020-10-14 13:27:36.948747
+Result: Satria- FALSE
+88.5
+end :2020-10-14 13:27:36.995638
+start time : 2020-10-14 13:27:37.104997
+Result: Satria- FALSE
+89.65
+end :2020-10-14 13:27:37.151876
+start time : 2020-10-14 13:27:37.261250
+Result: Satria- FALSE
+89.3
+end :2020-10-14 13:27:37.323752
+start time : 2020-10-14 13:27:37.433127
+Result: Satria- FALSE
+92.96
+end :2020-10-14 13:27:37.480019
+start time : 2020-10-14 13:27:37.589379
+Result: Satria- FALSE
+91.57
+end :2020-10-14 13:27:37.636258
+start time : 2020-10-14 13:27:37.745632
+Result: Satria- FALSE
+89.64
+end :2020-10-14 13:27:37.792509
+start time : 2020-10-14 13:27:37.901884
+Result: Satria- FALSE
+92.2
+end :2020-10-14 13:27:37.948774
+start time : 2020-10-14 13:27:38.073761
+Result: Satria- FALSE
+89.26
+end :2020-10-14 13:27:38.120640
+start time : 2020-10-14 13:27:38.230013
+Result: Satria- FALSE
+85.38
+end :2020-10-14 13:27:38.276891
+start time : 2020-10-14 13:27:38.417517
+Result: Satria- FALSE
+89.06
+end :2020-10-14 13:27:38.464393
+start time : 2020-10-14 13:27:38.573768
+Result: Satria- FALSE
+96.19
+end :2020-10-14 13:27:38.620659
+start time : 2020-10-14 13:27:38.730021
+Result: Satria- FALSE
+93.63
+end :2020-10-14 13:27:38.776898
+start time : 2020-10-14 13:27:38.886273
+Result: Satria- FALSE
+89.02
+end :2020-10-14 13:27:38.933150
+start time : 2020-10-14 13:27:39.042525
+Result: Satria- FALSE
+90.04
+end :2020-10-14 13:27:39.089401
+start time : 2020-10-14 13:27:39.198777
+Result: Satria- FALSE
+87.56
+end :2020-10-14 13:27:39.245655
+start time : 2020-10-14 13:27:39.355029
+Result: Satria- FALSE
+87.86
+end :2020-10-14 13:27:39.401906
+start time : 2020-10-14 13:27:39.511281
+Result: Satria- FALSE
+86.98
+end :2020-10-14 13:27:39.558159
+start time : 2020-10-14 13:27:39.667534
+Result: Satria- FALSE
+86.79
+end :2020-10-14 13:27:39.714410
+start time : 2020-10-14 13:27:39.823786
+Result: Satria- FALSE
+89.96
+end :2020-10-14 13:27:39.870663
+start time : 2020-10-14 13:27:39.980038
+Result: Satria- FALSE
+88.47
+end :2020-10-14 13:27:40.026916
+start time : 2020-10-14 13:27:40.136290
+Result: Satria- FALSE
+89.79
+end :2020-10-14 13:27:40.183168
+start time : 2020-10-14 13:27:40.292543
+Result: Satria- FALSE
+95.52
+end :2020-10-14 13:27:40.339420
+start time : 2020-10-14 13:27:40.448794
+Result: Satria- FALSE
+88.39
+end :2020-10-14 13:27:40.495672
+start time : 2020-10-14 13:27:40.605046
+Result: Satria- FALSE
+94.28
+end :2020-10-14 13:27:40.698853
+start time : 2020-10-14 13:27:40.839424
+Result: Satria- FALSE
+88.67
+end :2020-10-14 13:27:40.886340
+start time : 2020-10-14 13:27:40.995677
+Result: Satria- FALSE
+90.56
+end :2020-10-14 13:27:41.042591
+start time : 2020-10-14 13:27:41.151929
+Result: Satria- FALSE
+88.77
+end :2020-10-14 13:27:41.198819
+start time : 2020-10-14 13:27:41.308183
+Result: Satria- FALSE
+90.45
+end :2020-10-14 13:27:41.355072
+start time : 2020-10-14 13:27:41.464436
+Result: Satria- FALSE
+90.45
+end :2020-10-14 13:27:41.511324
+start time : 2020-10-14 13:27:41.620685
+Result: Satria- FALSE
+92.81
+end :2020-10-14 13:27:41.667576
+start time : 2020-10-14 13:27:41.776938
+Result: Satria- FALSE
+93.78
+end :2020-10-14 13:27:41.823829
+start time : 2020-10-14 13:27:41.933190
+Result: Satria- FALSE
+92.28
+end :2020-10-14 13:27:41.980068
+start time : 2020-10-14 13:27:42.089442
+Result: Satria- FALSE
+91.96
+end :2020-10-14 13:27:42.136325
+start time : 2020-10-14 13:27:42.245694
+Result: Satria- FALSE
+92.62
+end :2020-10-14 13:27:42.292572
+start time : 2020-10-14 13:27:42.401947
+Result: Satria- FALSE
+88.9
+end :2020-10-14 13:27:42.448824
+start time : 2020-10-14 13:27:42.558198
+Result: Satria- FALSE
+94.95
+end :2020-10-14 13:27:42.605077
+start time : 2020-10-14 13:27:42.714451
+Result: Satria- FALSE
+91.35
+end :2020-10-14 13:27:42.761327
+start time : 2020-10-14 13:27:42.886327
+Result: Satria- FALSE
+87.16
+end :2020-10-14 13:27:42.933219
+start time : 2020-10-14 13:27:43.042580
+Result: Satria- FALSE
+88.79
+end :2020-10-14 13:27:43.089458
+start time : 2020-10-14 13:27:43.198834
+Result: Satria- FALSE
+89.3
+end :2020-10-14 13:27:43.245710
+start time : 2020-10-14 13:27:43.355084
+Result: Satria- FALSE
+90.22
+end :2020-10-14 13:27:43.401964
+start time : 2020-10-14 13:27:43.511337
+Result: Satria- FALSE
+88.32
+end :2020-10-14 13:27:43.558215

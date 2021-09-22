@@ -1,0 +1,244 @@
+Raihan
+kanan
+10
+start time : 2020-10-14 15:30:41.448915
+start time : 2020-10-14 15:30:48.108158
+Result: Raihan - TRUE
+86.73
+end :2020-10-14 15:30:48.150817
+start time : 2020-10-14 15:30:48.276329
+Result: Raihan - TRUE
+83.97
+end :2020-10-14 15:30:48.323208
+start time : 2020-10-14 15:30:48.448206
+Result: Raihan - TRUE
+87.96
+end :2020-10-14 15:30:48.510746
+start time : 2020-10-14 15:30:48.635710
+Result: Endang- FALSE
+87.38
+end :2020-10-14 15:30:48.682587
+start time : 2020-10-14 15:30:48.807588
+Result: Esa- FALSE
+87.51
+end :2020-10-14 15:30:48.854501
+start time : 2020-10-14 15:30:48.963840
+Result: Esa- FALSE
+86.74
+end :2020-10-14 15:30:49.026342
+start time : 2020-10-14 15:30:49.151342
+Result: Endang- FALSE
+87.52
+end :2020-10-14 15:30:49.198231
+start time : 2020-10-14 15:30:49.333070
+Result: Esa- FALSE
+83.32
+end :2020-10-14 15:30:49.367096
+start time : 2020-10-14 15:30:49.502190
+Result: Raihan - TRUE
+83.01
+end :2020-10-14 15:30:49.537217
+start time : 2020-10-14 15:30:49.673312
+Result: Endang- FALSE
+86.72
+end :2020-10-14 15:30:49.708338
+start time : 2020-10-14 15:30:49.845434
+Result: Raihan - TRUE
+86.53
+end :2020-10-14 15:30:49.879459
+start time : 2020-10-14 15:30:50.000545
+Result: Endang- FALSE
+86.55
+end :2020-10-14 15:30:50.035571
+start time : 2020-10-14 15:30:50.168664
+Result: Raihan - TRUE
+86.29
+end :2020-10-14 15:30:50.203706
+start time : 2020-10-14 15:30:50.324776
+Result: Raihan - TRUE
+82.7
+end :2020-10-14 15:30:50.359802
+start time : 2020-10-14 15:30:50.494896
+Result: Raihan - TRUE
+85.06
+end :2020-10-14 15:30:50.528922
+start time : 2020-10-14 15:30:50.664017
+Result: Esa- FALSE
+83.09
+end :2020-10-14 15:30:50.698045
+start time : 2020-10-14 15:30:50.831135
+Result: Raihan - TRUE
+84.81
+end :2020-10-14 15:30:50.865161
+start time : 2020-10-14 15:30:50.984245
+Result: Esa- FALSE
+86.27
+end :2020-10-14 15:30:51.018273
+start time : 2020-10-14 15:30:51.149362
+Result: Esa- FALSE
+83.38
+end :2020-10-14 15:30:51.183388
+start time : 2020-10-14 15:30:51.308120
+Result: Esa- FALSE
+84.81
+end :2020-10-14 15:30:51.354999
+start time : 2020-10-14 15:30:51.464374
+Result: Esa- FALSE
+82.34
+end :2020-10-14 15:30:51.526875
+start time : 2020-10-14 15:30:51.651876
+Result: Esa- FALSE
+82.7
+end :2020-10-14 15:30:51.698754
+start time : 2020-10-14 15:30:51.823753
+Result: Raihan - TRUE
+90.96
+end :2020-10-14 15:30:51.870669
+start time : 2020-10-14 15:30:51.995631
+Result: Raihan - TRUE
+84.71
+end :2020-10-14 15:30:52.042508
+start time : 2020-10-14 15:30:52.151883
+Result: Raihan - TRUE
+84.93
+end :2020-10-14 15:30:52.198758
+start time : 2020-10-14 15:30:52.316470
+Result: Raihan - TRUE
+82.83
+end :2020-10-14 15:30:52.351496
+start time : 2020-10-14 15:30:52.480587
+Result: Endang- FALSE
+88.32
+end :2020-10-14 15:30:52.516613
+start time : 2020-10-14 15:30:52.650707
+Result: Endang- FALSE
+86.01
+end :2020-10-14 15:30:52.685734
+start time : 2020-10-14 15:30:52.819828
+Result: Endang- FALSE
+87.7
+end :2020-10-14 15:30:52.854854
+start time : 2020-10-14 15:30:52.987948
+Result: Raihan - TRUE
+86.47
+end :2020-10-14 15:30:53.022977
+start time : 2020-10-14 15:30:53.142057
+Result: Endang- FALSE
+88.99
+end :2020-10-14 15:30:53.177084
+start time : 2020-10-14 15:30:53.304112
+Result: Esa- FALSE
+87.57
+end :2020-10-14 15:30:53.350990
+start time : 2020-10-14 15:30:53.475988
+Result: Endang- FALSE
+89.4
+end :2020-10-14 15:30:53.522879
+start time : 2020-10-14 15:30:53.647866
+Result: Endang- FALSE
+88.62
+end :2020-10-14 15:30:53.694744
+start time : 2020-10-14 15:30:53.819743
+Result: Endang- FALSE
+88.47
+end :2020-10-14 15:30:53.866657
+start time : 2020-10-14 15:30:53.975995
+Result: Esa- FALSE
+81.83
+end :2020-10-14 15:30:54.022873
+start time : 2020-10-14 15:30:54.147874
+Result: Esa- FALSE
+82.29
+end :2020-10-14 15:30:54.194763
+start time : 2020-10-14 15:30:54.319751
+Result: Esa- FALSE
+85.77
+end :2020-10-14 15:30:54.366640
+start time : 2020-10-14 15:30:54.491627
+Result: Esa- FALSE
+85.25
+end :2020-10-14 15:30:54.538542
+start time : 2020-10-14 15:30:54.663505
+Result: Endang- FALSE
+84.97
+end :2020-10-14 15:30:54.710383
+start time : 2020-10-14 15:30:54.819757
+Result: Raihan - TRUE
+78.52
+end :2020-10-14 15:30:54.882259
+start time : 2020-10-14 15:30:55.007259
+Result: Raihan - TRUE
+83.58
+end :2020-10-14 15:30:55.054149
+start time : 2020-10-14 15:30:55.179138
+Result: Raihan - TRUE
+85.4
+end :2020-10-14 15:30:55.226052
+start time : 2020-10-14 15:30:55.361363
+Result: Raihan - TRUE
+83.24
+end :2020-10-14 15:30:55.396387
+start time : 2020-10-14 15:30:55.529482
+Result: Raihan - TRUE
+84.6
+end :2020-10-14 15:30:55.564508
+start time : 2020-10-14 15:30:55.698602
+Result: Raihan - TRUE
+87.73
+end :2020-10-14 15:30:55.732628
+start time : 2020-10-14 15:30:55.856714
+Result: Raihan - TRUE
+90.23
+end :2020-10-14 15:30:55.891741
+start time : 2020-10-14 15:30:56.026836
+Result: Raihan - TRUE
+89.21
+end :2020-10-14 15:30:56.061860
+start time : 2020-10-14 15:30:56.196956
+Result: Raihan - TRUE
+86.65
+end :2020-10-14 15:30:56.243381
+start time : 2020-10-14 15:30:56.352758
+Result: Raihan - TRUE
+89.79
+end :2020-10-14 15:30:56.399636
+start time : 2020-10-14 15:30:56.524636
+Result: Endang- FALSE
+87.99
+end :2020-10-14 15:30:56.571524
+start time : 2020-10-14 15:30:56.696512
+Result: Endang- FALSE
+88.81
+end :2020-10-14 15:30:56.743388
+start time : 2020-10-14 15:30:56.868388
+Result: Raihan - TRUE
+81.72
+end :2020-10-14 15:30:56.915278
+start time : 2020-10-14 15:30:57.040267
+Result: Endang- FALSE
+87.74
+end :2020-10-14 15:30:57.087181
+start time : 2020-10-14 15:30:57.212145
+Result: Endang- FALSE
+85.88
+end :2020-10-14 15:30:57.259023
+start time : 2020-10-14 15:30:57.384021
+Result: Endang- FALSE
+86.49
+end :2020-10-14 15:30:57.430899
+start time : 2020-10-14 15:30:57.540273
+Result: Endang- FALSE
+89.3
+end :2020-10-14 15:30:57.602775
+start time : 2020-10-14 15:30:57.727777
+Result: Esa- FALSE
+84.74
+end :2020-10-14 15:30:57.774667
+start time : 2020-10-14 15:30:57.899654
+Result: Endang- FALSE
+84.67
+end :2020-10-14 15:30:57.946543
+start time : 2020-10-14 15:30:58.071531
+Result: Endang- FALSE
+85.32
+end :2020-10-14 15:30:58.118420
